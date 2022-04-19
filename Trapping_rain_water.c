@@ -5,9 +5,6 @@ int calculate(int arr[]){
 
 }
 
-
-
-
 int main(){
     int size;
     printf("Enter Array Size : ");
@@ -25,7 +22,5 @@ int main(){
         printf("%d",arr[i]);
     }
     
-    
-
     return 0;
 }
