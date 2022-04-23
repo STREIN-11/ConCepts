@@ -5,7 +5,7 @@
 using namespace std;
 class Solution{
   public:
-    //Function to find triplets with zero sum.
+    //Function to find triplets with zero sum
     bool findTriplets(int arr[], int n)
     {
         if (n >= 3){
@@ -20,7 +20,6 @@ class Solution{
         return false;
     }
 };
-
 // { Driver Code Starts.
 int main()
 {
