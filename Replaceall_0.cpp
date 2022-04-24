@@ -3,7 +3,6 @@
 using namespace std;
 
 int convertFive(int n);
-
 // Driver program to test above function
 int main() {
     int T;
@@ -13,9 +12,8 @@ int main() {
         cin >> n;
         cout << convertFive(n) << endl;
     }
-}// } Driver Code Ends
-
-
+}
+// } Driver Code Ends
 /*you are required to complete this method*/
 int convertFive(int n) {
     // Your code here
