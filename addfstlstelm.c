@@ -5,6 +5,7 @@ int calculate(int arr[], int n){
     sum = arr[0] + arr[n-1];
     return sum;
 }
+//Driver Code { 
 int main(){
     int size;
     printf("Enter The Size of the Array : ");
@@ -20,3 +21,4 @@ int main(){
     printf("Your Sum is : %d",t);
     return 0;
 }
+//Driver Code End }
