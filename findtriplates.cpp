@@ -20,7 +20,8 @@ class Solution{
         return false;
     }
 };
-// { Driver Code Starts.
+// { Driver Code Starts
+
 int main()
 {
     int t;
@@ -38,4 +39,5 @@ int main()
             cout<<"0"<<endl;
 	}
     return 0;
-}  // } Driver Code Ends
+}  
+// } Driver Code Ends.
