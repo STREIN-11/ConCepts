@@ -2,7 +2,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
- // } Driver Code Ends
 class Solution{
   public:
     int thirdLargest(int a[], int n)
@@ -30,9 +29,7 @@ class Solution{
     }
 
 };
-
 // { Driver Code Starts.
- 
 int main()
 {
     int t;
@@ -47,4 +44,5 @@ int main()
 	   Solution obj;
 	    cout<<obj.thirdLargest(a,n)<<endl;
     }
-}     // } Driver Code Ends
+} 
+// } Driver Code Ends
