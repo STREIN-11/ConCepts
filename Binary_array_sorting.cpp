@@ -6,7 +6,6 @@ using namespace std;
 
  // } Driver Code Ends
 //User function template for C++
-
 // binArray is an array that consists only 0s and 1s
 // return sorted binary array 
 class Solution{
@@ -30,7 +29,6 @@ class Solution{
        return binArray;
     }
 };
-
 // { Driver Code Starts.
 int main() {
 	int t;
@@ -53,4 +51,5 @@ int main() {
 	}
 	return 0;
 }
-  // } Driver Code Ends
+
+// } Driver Code Ends
