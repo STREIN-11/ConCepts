@@ -6,7 +6,6 @@ class Solution{
   public:
     int thirdLargest(int a[], int n)
     {
-         //Your code here
         if(n>=3)
         {
         sort(a,a+n);
