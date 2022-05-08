@@ -6,6 +6,7 @@ struct Node{
     struct Node * next;
 };
 
+//To Print The Link List
 void linkedListTraversal(struct Node *ptr)
 {
     while (ptr != NULL)
@@ -14,6 +15,7 @@ void linkedListTraversal(struct Node *ptr)
         ptr = ptr->next;
     }
 }
+
 
 // Case 1
 struct Node * insertAtFirst(struct Node *head, int data){
