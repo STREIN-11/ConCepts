@@ -81,7 +81,6 @@ int main()
     struct Node *second;
     struct Node *third;
     struct Node *fourth;
-
     // Allocate memory for nodes in the linked list in Heap
     head = (struct Node *)malloc(sizeof(struct Node));
     second = (struct Node *)malloc(sizeof(struct Node));
@@ -103,7 +102,8 @@ int main()
     // Terminate the list at the third node
     fourth->data = 4;
     fourth->next = NULL;
-
+    
+    
     printf("Linked list before deletion\n");
     linkedListTraversal(head);
     int input;
@@ -131,15 +131,13 @@ int main()
         printf("Linked list after deletion\n");
         linkedListTraversal(head);
     }
-    else
-    {
+    else{
         int p;
         printf("Enter A Value : ");
         scanf("%d",&p);
         head = deleteAtIndex(head, p);
         printf("Linked list after deletion\n");
         linkedListTraversal(head);
-
     }
     return 0;
 }
