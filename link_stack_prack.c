@@ -15,7 +15,6 @@ void print(struct Node *ptr)
         ptr = ptr->next;
     }
 }
-
 int empty(struct Node *ptr)
 {
     if (ptr == NULL)
@@ -40,7 +39,6 @@ int full(struct Node *ptr)
         return 0;
     }
 }
-
 struct Node *push(struct Node *q, int val)
 {
     if (full(q))
@@ -96,5 +94,6 @@ int main()
         else
             printf("No Module");
     }
+    
     return 0;
 }
