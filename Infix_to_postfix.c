@@ -8,7 +8,6 @@ struct stack
     int top;
     char *arr;
 };
- 
 int stackTop(struct stack* sp){
     return sp->arr[sp->top];
 }
@@ -24,7 +23,6 @@ int isEmpty(struct stack *ptr)
         return 0;
     }
 }
- 
 int isFull(struct stack *ptr)
 {
     if (ptr->top == ptr->size - 1)
@@ -111,5 +109,6 @@ int main()
 {
     char * infix = "x-y/z-k*d";
     printf("postfix is %s", infixToPostfix(infix));
-    return 0;
+    printf("Hallow");
+return 0;
 }
