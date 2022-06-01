@@ -1,7 +1,6 @@
 // { Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
-
 int convertFive(int n);
 // Driver program to test above function
 int main() {
@@ -26,7 +25,6 @@ digit = 5;
 // Convert remaining digits and append the last digit
 return convertFive(n/10) * 10 + digit;
 }
-
 int Convert(int n)
 {
 if (n == 0)
