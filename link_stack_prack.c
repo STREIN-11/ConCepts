@@ -6,7 +6,6 @@ struct Node
     struct Node *next;
 };
 struct Node *top = NULL;
-
 void print(struct Node *ptr)
 {
     while (ptr != NULL)
@@ -26,7 +25,6 @@ int empty(struct Node *ptr)
         return 0;
     }
 }
-
 int full(struct Node *ptr)
 {
     struct Node *p = (struct Node *)malloc(sizeof(struct Node));
