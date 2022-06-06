@@ -7,7 +7,6 @@ struct stack
     int top;
     char *arr;
 };.
- 
 int stackTop(struct stack* sp){
     return sp->arr[sp->top];
 }
@@ -22,6 +21,7 @@ int isEmpty(struct stack *ptr)
         return 0;
     }
 }
+
 int isFull(struct stack *ptr)
 {
     if (ptr->top == ptr->size - 1)
@@ -43,6 +43,7 @@ void push(struct stack* ptr, char val){
         ptr->arr[ptr->top] = val;
     }
 }
+
  
 char pop(struct stack* ptr){
     if(isEmpty(ptr)){
@@ -55,6 +56,7 @@ char pop(struct stack* ptr){
         return val;
     }
 }
+
 int precedence(char ch){
     if(ch == '*' || ch=='/')
         return 3;
@@ -70,6 +72,7 @@ int isOperator(char ch){
     else
         return 0;
 }
+
 char* infixToPostfix(char* infix){
     struct stack * sp = (struct stack *) malloc(sizeof(struct stack));
     sp->size = 10; 
