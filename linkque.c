@@ -2,7 +2,6 @@
 #include <stdlib.h>
 struct Node *f = NULL;
 struct Node *r = NULL;
-
 struct Node
 {
     int data;
@@ -16,7 +15,6 @@ void print(struct Node *ptr)
         ptr = ptr->next;
     }
 }
-
 void enque(int val)
 {
     struct Node *n = (struct Node *)malloc(sizeof(struct Node));
@@ -32,7 +30,6 @@ void enque(int val)
         r = n;
     printf("Enqueue Element is : %d\n", val);
 }
-
 int deque()
 {
     int val = -1;
