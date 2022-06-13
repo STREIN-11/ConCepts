@@ -14,7 +14,6 @@ int sorting(int arr[], int n){
     // printf("After sorting Result is : %d\n",arr[i]);
     }
 }
-
 int plusar(int arr[], int ar[], int cal[], int size,int length,int sum){
     for(int i=0;i< size;i++)
 	{
@@ -33,7 +32,6 @@ int finalsort(int sorting, int plusar,int cal[],int sum){
         printf(" %d",cal[i]);
     }  
 }
-
 int main(){
     int size,length,sum,j;
     printf("Enter Length for 1st Array : ");
