@@ -1,12 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+
 struct stack
 {
     int size;
     int top;
     char *arr;
-};.
+};
+
 int stackTop(struct stack* sp){
     return sp->arr[sp->top];
 }
