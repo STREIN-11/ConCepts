@@ -1,16 +1,12 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 // Function to find the longest common prefix
 string longestCommonPrefix(string ar[], int n)
 {
-
 	if (n == 0)
 		return "";
-
 	if (n == 1)
 		return ar[0];
-
 	sort(ar, ar + n);
 
 	// Find the minimum length from
@@ -28,7 +24,6 @@ string longestCommonPrefix(string ar[], int n)
 	string pre = first.substr(0, i);
 	return pre;
 }
-
 int main()
 {
 	string ar[] = {"geeksforgeeks", "geeks",
