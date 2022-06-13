@@ -1,9 +1,5 @@
-// { Driver Code Starts
-//Initial template for C++
-
 #include <bits/stdc++.h> 
 using namespace std;
-// return sorted binary array 
 class Solution{
     public:
     vector<int> SortBinaryArray(vector<int> binArray)
