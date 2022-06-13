@@ -1,3 +1,10 @@
+    // Finally The tree looks like this:
+    //      5
+    //     / \
+    //    3   6
+    //   / \
+    //  1   4  
+
 #include<stdio.h>
 #include<malloc.h>
  
@@ -140,13 +147,6 @@ int main(){
     struct node *p2 = createNode(6);
     struct node *p3 = createNode(1);
     struct node *p4 = createNode(4);
-    // Finally The tree looks like this:
-    //      5
-    //     / \
-    //    3   6
-    //   / \
-    //  1   4  
- 
     // Linking the root node with left and right children
     p->left = p1;
     p->right = p2;
