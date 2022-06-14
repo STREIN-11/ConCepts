@@ -15,7 +15,6 @@ int sorting(int arr[], int n){
     // printf("After sorting Result is : %d\n",arr[i]);
     }
 }
-
 int calculate(int sorting,int arr[],int n){
     int sum = 0;
     for (int i = 0; i < n-2; i++)
@@ -27,7 +26,6 @@ int calculate(int sorting,int arr[],int n){
     printf("Final Result is : %d", sum);
 
 }
-
 int main()
 {
     int size;
