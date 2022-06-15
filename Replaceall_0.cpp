@@ -13,7 +13,6 @@ int main() {
     }
 }
 // } Driver Code Ends
-/*you are required to complete this method*/
 int convertFive(int n) {
     // Your code here
     if (n == 0)
