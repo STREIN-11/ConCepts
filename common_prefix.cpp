@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
+
 // Function to find the longest common prefix
+
 string longestCommonPrefix(string ar[], int n)
 {
 	if (n == 0)
