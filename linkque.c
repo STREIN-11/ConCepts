@@ -2,11 +2,13 @@
 #include <stdlib.h>
 struct Node *f = NULL;
 struct Node *r = NULL;
+
 struct Node
 {
     int data;
     struct Node *next;
 };
+
 void print(struct Node *ptr)
 {
     while (ptr != NULL)
@@ -15,6 +17,7 @@ void print(struct Node *ptr)
         ptr = ptr->next;
     }
 }
+
 void enque(int val)
 {
     struct Node *n = (struct Node *)malloc(sizeof(struct Node));
