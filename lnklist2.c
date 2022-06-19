@@ -1,11 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
-
 struct Node{
     int data;
     struct Node * next;
 };
-
 //To Print The Link List
 void linkedListTraversal(struct Node *ptr)
 {
@@ -15,7 +13,6 @@ void linkedListTraversal(struct Node *ptr)
         ptr = ptr->next;
     }
 }
-
 
 // Case 1
 struct Node * insertAtFirst(struct Node *head, int data){
@@ -69,7 +66,6 @@ struct Node * insertAfterNode(struct Node *head, struct Node *prevNode, int data
     return head;
 }
 
-
 int main(){
     struct Node *head;
     struct Node *second;
@@ -107,6 +103,5 @@ int main(){
     printf("\nLinked list after insertion\n");
     linkedListTraversal(head);
 
-    
     return 0;
 }
