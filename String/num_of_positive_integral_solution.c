@@ -27,6 +27,7 @@ void cal(char *arr){
             {
                 if (i+j==s)
                 {
+                    printf("a : %d, b : %d\n",i,j);
                     k++;
                 }
                 else{
