@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 struct stack
 {
     int size;
@@ -12,6 +11,7 @@ struct stack
 int stackTop(struct stack* sp){
     return sp->arr[sp->top];
 }
+
 int isEmpty(struct stack *ptr)
 {
     if (ptr->top == -1)
@@ -46,7 +46,6 @@ void push(struct stack* ptr, char val){
     }
 }
 
- 
 char pop(struct stack* ptr){
     if(isEmpty(ptr)){
         printf("Stack Underflow! Cannot pop from the stack\n");
