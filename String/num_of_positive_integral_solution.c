@@ -39,6 +39,7 @@ void cal(char *arr){
     }    
 }
 
+//Driver Codes start{
 int main(){
     printf("Enter String : ");
     char arr[100];
@@ -49,3 +50,4 @@ int main(){
     cal(arr);
     return 0;
 }
+//Driver Codes END}
