@@ -7,6 +7,7 @@ struct node{
     struct node* right;
 };
 
+
 struct node* createNode(int data){
     struct node *n; // creating a node pointer
     n = (struct node *) malloc(sizeof(struct node)); // Allocating memory in the heap
