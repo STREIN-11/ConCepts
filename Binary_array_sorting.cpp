@@ -1,5 +1,6 @@
 #include <bits/stdc++.h> 
 using namespace std;
+
 class Solution{
     public:
     vector<int> SortBinaryArray(vector<int> binArray)
@@ -21,6 +22,7 @@ class Solution{
        return binArray;
     }
 };
+
 // { Driver Code Starts.
 int main() {
 	int t;
