@@ -6,7 +6,6 @@
 // Output: 3
 // Explanation: Minimum distance between the 
 // words "the" and "fox" is 3
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
