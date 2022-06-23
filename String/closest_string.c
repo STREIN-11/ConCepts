@@ -6,10 +6,10 @@
 // Output: 3
 // Explanation: Minimum distance between the 
 // words "the" and "fox" is 3
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 void cal(char (*arr)[100], int size, char *ar,char *pr){
     int i,j=0,k=0;
     for (i = 0; i < size; i++)
