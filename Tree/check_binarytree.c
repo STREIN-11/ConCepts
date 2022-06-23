@@ -1,6 +1,5 @@
 #include<stdio.h>
 #include<malloc.h>
-
 struct node{
     int data;
     struct node* left;
@@ -58,7 +57,6 @@ int isBST(struct  node* root){
 }
 
 int main(){
-     
     // Constructing the root node - Using Function (Recommended)
     struct node *p = createNode(5);
     struct node *p1 = createNode(3);
