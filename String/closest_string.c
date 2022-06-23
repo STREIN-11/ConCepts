@@ -34,7 +34,7 @@ void cal(char (*arr)[100], int size, char *ar,char *pr){
         printf("Distance is : %d",k-j);
     }   
 }
-
+//Driver Code start {
 int main()
 {
     int size;
