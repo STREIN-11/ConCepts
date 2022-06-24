@@ -1,11 +1,11 @@
 #include<stdio.h>
 #include<malloc.h>
+
 struct node{
     int data;
     struct node* left;
     struct node* right;
 };
-
 struct node* createNode(int data){
     struct node *n; // creating a node pointer
     n = (struct node *) malloc(sizeof(struct node)); // Allocating memory in the heap
