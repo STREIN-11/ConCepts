@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+
 struct stack
 {
     int size;
@@ -23,7 +24,6 @@ int isEmpty(struct stack *ptr)
         return 0;
     }
 }
-
 int isFull(struct stack *ptr)
 {
     if (ptr->top == ptr->size - 1)
