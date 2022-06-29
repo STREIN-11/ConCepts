@@ -23,7 +23,6 @@ int calculate(int sorting,int arr[],int n){
         sum = sum + j;
     }
     printf("Final Result is : %d", sum);
-
 }
 int main()
 {
