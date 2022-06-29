@@ -1,11 +1,13 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 struct Node
 {
     int size;
     int top;
     char *arr;
 };
+
 int empty(struct Node *ptr)
 {
     if (ptr->top == -1)
