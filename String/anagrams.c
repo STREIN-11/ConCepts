@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 // structure for each word of duplicate array
 struct Word {
 	char* str; // to store word itself
