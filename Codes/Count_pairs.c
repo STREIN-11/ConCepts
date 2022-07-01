@@ -17,7 +17,6 @@ void sort(int *arr, int size)
         }
     }
 }
-
 void cal(int *arr, int n, int size)
 {
     int i, j, k = 0,l=0;
