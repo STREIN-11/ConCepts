@@ -7,6 +7,7 @@ struct myArray
     int (*ptr);
 
 };
+
 void create(struct myArray *a, int x, int b){
     a->t = x;
     a->u = b;
