@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Incomplete......
+
 void cal(int arr[], int size)
 {
     int j = 0;
