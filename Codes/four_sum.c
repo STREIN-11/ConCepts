@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
+
 int sorting(int arr[], int n)
 {
     for (int i = 0; i < n; ++i)
