@@ -17,6 +17,7 @@ int sorting(int arr[], int n)
         }
     }
 }
+
 void cal(int *arr, int size, int n)
 {
     int l, r;
