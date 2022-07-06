@@ -44,7 +44,6 @@ void cal(int *arr, int size, int n)
     }
     // printf("%i", false);
 }
-
 int main()
 {
     int size, n;
