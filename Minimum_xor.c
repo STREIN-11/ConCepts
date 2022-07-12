@@ -2,6 +2,7 @@
 using namespace std;
 
 // User function Template for C++
+
 class Solution {
   public:
     int minVal(int a, int b) {
@@ -20,7 +21,6 @@ class Solution {
     return a;
     }
 };
-
 // { Driver Code Starts.
 int main() {
     int t;
