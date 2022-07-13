@@ -1,8 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// User function Template for C++
-
 class Solution {
   public:
     int minVal(int a, int b) {
