@@ -1,11 +1,14 @@
-// { Driver Code Starts
-// Initial template for C++
+// n = 7
+// arr[] = {1, 5, 3, 4, 3, 5, 6}
+// Output: 2
+// Explanation: 
+// 5 is appearing twice and 
+// its first appearence is at index 2 
+// which is less than 3 whose first 
+// occuring index is 3.
 
 #include <bits/stdc++.h>
 using namespace std;
-
- // } Driver Code Ends
-// User function template in C++
 
 class Solution {
   public:
