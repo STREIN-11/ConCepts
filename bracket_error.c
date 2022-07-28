@@ -7,7 +7,6 @@ struct Node
     int top;
     char *arr;
 };
-
 int empty(struct Node *ptr)
 {
     if (ptr->top == -1)
