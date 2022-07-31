@@ -9,7 +9,6 @@ string longestCommonPrefix(string ar[], int n)
 	if (n == 1)
 		return ar[0];
 	sort(ar, ar + n);
-
 	// Find the minimum length from
 	// first and last string
 	int en = min(ar[0].size(),
