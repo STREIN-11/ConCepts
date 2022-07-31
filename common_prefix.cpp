@@ -25,7 +25,6 @@ string longestCommonPrefix(string ar[], int n)
 	return pre;
 }
 
-
 int main()
 {
 	string ar[] = {"geeksforgeeks", "geeks",
