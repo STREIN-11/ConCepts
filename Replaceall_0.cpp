@@ -12,7 +12,6 @@ int main() {
         cout << convertFive(n) << endl;
     }
 }
-
 int convertFive(int n) {
     // Your code here
     if (n == 0)
