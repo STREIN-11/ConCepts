@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include<stdlib.h>
 
-
 int calculate(int arr[], int n){
     int sum;
     sum = arr[0] + arr[n-1];
