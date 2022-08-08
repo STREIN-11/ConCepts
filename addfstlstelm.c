@@ -7,7 +7,6 @@ int calculate(int arr[], int n){
     return sum;
 }
 
-
 //Driver Code { 
 int main(){
     int size;
