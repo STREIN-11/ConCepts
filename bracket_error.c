@@ -3,7 +3,6 @@
 
 
 
-
 struct Node
 {
     int size;
