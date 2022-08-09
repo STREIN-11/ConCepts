@@ -4,7 +4,6 @@
 
 
 
-
 struct Node
 {
     int size;
