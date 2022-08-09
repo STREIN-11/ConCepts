@@ -8,7 +8,6 @@
 
 
 
-
 struct Node
 {
     int size;
