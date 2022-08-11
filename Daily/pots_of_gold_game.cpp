@@ -1,3 +1,18 @@
+// Two players X and Y are playing a game in which there are pots of gold arranged in a line, each containing some gold coins. They get alternating 
+// turns in which the player can pick a pot from one of the ends of the line. The winner is the player who has a higher number of coins at the end. 
+// The objective is to maximize the number of coins collected by X, assuming Y also plays optimally.
+// Return the maximum coins X could get while playing the game. Initially, X starts the game.
+
+// N = 4
+// Q[] = {8, 15, 3, 7}
+// Output: 22
+// Explanation: Player X starts and picks 7. Player Y 
+// picks the pot containing 8. Player X picks the pot
+// containing 15. Player Y picks 3.
+// Total coins collected by X = 7 + 15 = 22.
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
