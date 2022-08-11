@@ -1,8 +1,12 @@
+// n = 3 k = 2
+// Output: 3
+// Explanation: There are 3 persons so 
+// skipping 1 person i.e 1st person 2nd 
+// person will be killed. Thus the safe 
+// position is 3.
+
 #include <bits/stdc++.h>
 using namespace std;
-
-
-
 // } Driver Code Ends
 /*You are required to complete this method */
 
