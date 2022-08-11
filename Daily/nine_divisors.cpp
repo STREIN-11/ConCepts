@@ -1,3 +1,11 @@
+// N = 100
+// Output:
+// 2
+// Explanation:
+// The two numbers which have 
+// exactly 9 divisors are 36 and 100.
+
+
 #include<bits/stdc++.h> 
 using namespace std; 
 
