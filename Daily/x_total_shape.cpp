@@ -1,3 +1,17 @@
+// Input: grid = {{X,O,X},{O,X,O},{X,X,X}}
+// Output: 3
+// Explanation: 
+// The grid is-
+// X O X
+// O X O
+// X X X
+// So, X with same colour are adjacent to each 
+// other vertically for horizontally (diagonals 
+// not included). So, there are 3 different groups 
+// in the given grid.
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
