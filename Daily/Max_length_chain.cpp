@@ -7,7 +7,6 @@ struct val{
 	int second;
 };
 
-
 // } Driver Code Ends
 /*
 The structure to use is as follows
