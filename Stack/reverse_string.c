@@ -14,7 +14,6 @@ struct Stack
 
 
 
-
 struct Stack* create(unsigned val){
     struct Stack* stack = (struct Stack*)malloc(sizeof(struct Stack));
     stack->val = val;
