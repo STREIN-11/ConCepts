@@ -5,6 +5,8 @@
 // person will be killed. Thus the safe 
 // position is 3.
 
+
+
 #include <bits/stdc++.h>
 using namespace std;
 // } Driver Code Ends
