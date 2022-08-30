@@ -109,6 +109,7 @@ char* infixToPostfix(char* infix){
     postfix[j] = '\0';
     return postfix;
 }
+
 int main()
 {
     char * infix = "x-y/z-k*d";
