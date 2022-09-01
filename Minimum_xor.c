@@ -19,7 +19,6 @@ class Solution {
     return a;
     }
 };
-
 // { Driver Code Starts.
 int main() {
     int t;
