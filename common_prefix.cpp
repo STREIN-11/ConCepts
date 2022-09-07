@@ -5,7 +5,6 @@ using namespace std;
 
 
 
-
 // Function to find the longest common prefix
 string longestCommonPrefix(string ar[], int n)
 {
