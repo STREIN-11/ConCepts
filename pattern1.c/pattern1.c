@@ -9,7 +9,6 @@
 
 
 
-
 int main(){
     int row,colom;
     printf("Enter Row : ");
