@@ -26,6 +26,7 @@ int calculate(int sorting,int arr[],int n){
     }
     printf("Final Result is : %d", sum);
 }
+
 int main()
 {
     int size;
