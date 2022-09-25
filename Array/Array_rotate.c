@@ -28,7 +28,7 @@ int main()
 
 	printf("\nRotated array is\n");
 	for (i = 0; i < size; i++)
-		printf("%d ", arr[i]);
+		printf("%d", arr[i]);
 
 	return 0;
 }
