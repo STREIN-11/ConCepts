@@ -9,7 +9,6 @@ struct stack
     char *arr;
 };
 
-
 int stackTop(struct stack* sp){
     return sp->arr[sp->top];
 }
