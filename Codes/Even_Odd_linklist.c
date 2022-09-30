@@ -50,10 +50,7 @@ void evenodd(Node** head){
                 oddstart = curr;
                 oddend = oddstart;
             }
-            else {
-                oddend->next = curr;
-                oddend = oddend->next;
-            }
+            //else??
         }
         curr = curr->next;
         
