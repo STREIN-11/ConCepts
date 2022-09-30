@@ -28,6 +28,14 @@ vector<int> FactDigit(int N) {
     vector<int> res;
     
     //Found missing
+	for(int i=9; i>0; i--) {
+        int val = factorial[i];
+        int rep = N/val;
+        N -= rep*val;
+        while(rep--) {
+	        res.push_back(i);
+        }
+    }
     
     reverse(res.begin(), res.end());
     return res;
