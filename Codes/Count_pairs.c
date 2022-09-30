@@ -23,6 +23,12 @@ void cal(int *arr, int n, int size)
     for (i = 0; i < size; i++)
     {
         //loop
+        for (j = 0; j < size; j++)
+        {
+            if (i == j)
+            {
+                l++;
+            }
             else
             {
                 int t = arr[i] + arr[j];
