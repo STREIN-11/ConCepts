@@ -55,25 +55,7 @@ Node* buildTree(string str)
     queue.push(root);
         
     // Starting from the second element
-    int i = 1;
-    while(!queue.empty() && i < ip.size()) {
-            
-        // Get and remove the front of the queue
-        Node* currNode = queue.front();
-        queue.pop();
-            
-        // Get the current node's value from the string
-        string currVal = ip[i];
-            
-        // If the left child is not null
-        if(currVal != "N") {
-                
-            // Create the left child for the current node
-            currNode->left = newNode(stoi(currVal));
-                
-            // Push it to the queue
-            queue.push(currNode->left);
-        }
+    
             
         // For the right child
         i++;
