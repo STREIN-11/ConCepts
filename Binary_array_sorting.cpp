@@ -5,7 +5,7 @@ using namespace std;
 
 
 
-//class
+//clas
 class Solution{
     public:
     vector<int> SortBinaryArray(vector<int> binArray)
