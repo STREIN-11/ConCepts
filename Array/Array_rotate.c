@@ -7,7 +7,6 @@
 
 
 
-
 void rotate(int arr[], int n)
 {
 int x = arr[n-1], i;
