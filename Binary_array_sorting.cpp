@@ -4,8 +4,7 @@ using namespace std;
 //class
 class Solution{
     public:
-    vector<int> SortBinaryArray(vector<int> binArray)
-    {
+    vector<int> SortBinaryArray(vector<int> binArray){
         // Your code goes here 
         int oneInd = -1;
        for(int ind=0; ind<binArray.size(); ind++)
