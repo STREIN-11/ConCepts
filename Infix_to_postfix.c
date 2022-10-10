@@ -8,7 +8,6 @@
 
 
 
-
 struct stack
 {
     int size;
