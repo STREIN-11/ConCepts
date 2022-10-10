@@ -3,7 +3,6 @@
 #include <string.h>
 
 
-
 struct stack
 {
     int size;
