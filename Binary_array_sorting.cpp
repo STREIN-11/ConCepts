@@ -4,7 +4,6 @@ using namespace std;
 //classs
 class Solution{
 	
-	
     public:
     vector<int> SortBinaryArray(vector<int> binArray){
         // Your code goes here 
