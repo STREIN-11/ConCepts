@@ -4,7 +4,6 @@ using namespace std;
 
 
 
-
 class Solution {
   public:
     int minVal(int a, int b) {
