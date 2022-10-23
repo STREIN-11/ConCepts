@@ -39,27 +39,13 @@ class Solution {
     vector<alphanumeric> sortedStrings(int N, vector<string> A) {
         // code here
         map<string,int>mp;
-
-        for(int i=0;i<N;i++)
-
-        {
-
+        for(int i=0;i<N;i++){
             mp[A[i]]++;
-
         }
-
         vector<alphanumeric>v;
-
-        for(auto it:mp)
-
-        {
-
+        for(auto it:mp){
             v.push_back({it.first,it.second});
-
         }
-
- 
-
         return v;
     }
 };
