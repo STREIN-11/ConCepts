@@ -1,7 +1,7 @@
 #include <bits/stdc++.h> 
 using namespace std;
 
-//classs
+//class
 class Solution{
     public:
     vector<int> SortBinaryArray(vector<int> binArray){
