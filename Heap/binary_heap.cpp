@@ -7,7 +7,6 @@ void swap(int *x, int *y){
     *y = temp;
 }
 
-
 class minheap{
     int *arr;
     int capacity;
