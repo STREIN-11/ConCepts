@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 
-
 typedef struct Node
 {
     int data;
