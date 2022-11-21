@@ -5,7 +5,6 @@
 
 
 
-
 typedef struct Node
 {
     int data;
