@@ -12,8 +12,7 @@ struct Node{
 
 // A reservoir sampling based function to print a
 // random node from a linked list
-void printRandom(struct Node *head)
-{
+void printRandom(struct Node *head){
     // IF list is empty
     if (head == NULL)
         return;
