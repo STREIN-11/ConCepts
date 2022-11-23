@@ -5,8 +5,7 @@ linked list */
 #include <time.h>
 
 /* Link list node */
-struct Node
-{
+struct Node{
     int key;
     struct Node *next;
 };
