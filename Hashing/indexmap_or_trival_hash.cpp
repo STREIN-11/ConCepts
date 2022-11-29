@@ -3,6 +3,18 @@ using namespace std;
 #define MAX 1000
 bool has[MAX + 1][2];
 
+
+
+
+
+
+
+
+
+
+
+
+
 bool search(int x){
     if (x > 0)
     {
