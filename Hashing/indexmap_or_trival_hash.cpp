@@ -8,7 +8,6 @@ bool has[MAX + 1][2];
 
 
 
-
 bool search(int x){
     if (x > 0)
     {
