@@ -11,7 +11,6 @@ class minheap{
     int size;
 public:
     minheap(int capacity);
-
     void minheapify(int );
     int parent(int i){return (i-1)/2;}
     int left(int i){return (2*i +1);}
