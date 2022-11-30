@@ -18,6 +18,7 @@ public:
     int left(int i){return (2*i +1);}
     int right(int i){return (2*i + 1);}
     int extract();
+    
     void decrease(int i,int new_val);
     
     int getmin(){return arr[0];}
