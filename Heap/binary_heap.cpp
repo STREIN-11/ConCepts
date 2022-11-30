@@ -19,6 +19,7 @@ public:
     int right(int i){return (2*i + 1);}
     int extract();
     void decrease(int i,int new_val);
+    
     int getmin(){return arr[0];}
 
     void deletekey(int i);
