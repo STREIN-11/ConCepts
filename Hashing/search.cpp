@@ -4,7 +4,6 @@
 using namespace std;
 #define MAX 1000
 
-
 // Since array is global, it is initialized as 0.
 bool has[MAX + 1][2];
 
