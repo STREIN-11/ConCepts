@@ -12,6 +12,15 @@ bool search(int x){
             return false;
     }
 
+    
+    
+    
+    
+    
+    
+    
+    
+    
     x = abs(x);
     if (has[x][1] == 1)
         return true;
