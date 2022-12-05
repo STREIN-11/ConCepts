@@ -34,8 +34,7 @@ struct Node* newNode(int key)
 {
 	struct Node* node = (struct Node*)malloc(sizeof(struct Node));
 	node->key = key;
-	node->left = NULL;
-	node->right = NULL;
+	node->left = node->right = NULL;
 	node->height = 0; // new node is initially added at leaf
 	return(node);
 }
