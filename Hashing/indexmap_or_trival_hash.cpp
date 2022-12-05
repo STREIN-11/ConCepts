@@ -13,7 +13,6 @@ bool search(int x){
     }
 
     
-    
     x = abs(x);
     if (has[x][1] == 1)
         return true;
