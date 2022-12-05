@@ -32,8 +32,7 @@ int max(int a, int b)
 	NULL left and right pointers. */
 struct Node* newNode(int key)
 {
-	struct Node* node = (struct Node*)
-						malloc(sizeof(struct Node));
+	struct Node* node = (struct Node*)malloc(sizeof(struct Node));
 	node->key = key;
 	node->left = NULL;
 	node->right = NULL;
