@@ -12,7 +12,6 @@ bool search(int x){
             return false;
     }
 
-       
     
     
     x = abs(x);
