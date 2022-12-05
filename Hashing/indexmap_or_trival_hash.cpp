@@ -11,7 +11,6 @@ bool search(int x){
         else
             return false;
     }
-
     
     x = abs(x);
     if (has[x][1] == 1)
