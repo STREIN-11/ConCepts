@@ -3,8 +3,7 @@ using namespace std;
 class Graph{
     int V;
     vector<list<int>> adj;
-
-    
+  
     
 public:
     Graph(int V);
