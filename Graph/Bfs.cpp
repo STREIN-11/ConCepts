@@ -5,7 +5,6 @@ class Graph{
     vector<list<int>> adj;
 
     
-
     
 public:
     Graph(int V);
