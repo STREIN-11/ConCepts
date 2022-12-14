@@ -1,5 +1,4 @@
 /*
-
 You are given a binary string str. In a single operation, you can choose two indices L and R such that 1 ≤ L ≤ R ≤ N and 
 complement the characters between L and R i.e strL, strL+1, , strR. By complement, we mean change character 0 to 1 and vice-versa.
 You task is to perform ATMOST one operation such that in final string number of 1s is maximised. If there is no need to completement, 
@@ -18,7 +17,7 @@ N = 2
 str = "01"
 Output: 1 1
 Explanation: After complementing [1, 1] 
-the string becomes "11".*/
+the string becomes "11"  */
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
