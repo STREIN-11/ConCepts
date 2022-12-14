@@ -3,7 +3,7 @@ You are given a binary string str. In a single operation, you can choose two ind
 complement the characters between L and R i.e strL, strL+1, , strR. By complement, we mean change character 0 to 1 and vice-versa.
 You task is to perform ATMOST one operation such that in final string number of 1s is maximised. If there is no need to completement, 
 i.e., string contains all 1s, return -1. Else, return the two values denoting L and R. If there are multiple solutions, return
- the lexicographically smallest pair of L and R.
+the lexicographically smallest pair of L and R.
 
 Input:
 N = 3
