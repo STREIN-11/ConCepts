@@ -2,7 +2,6 @@
 #include <stdlib.h>
 
 
-
 void sort(int *arr, int size)
 {
     int temp;
