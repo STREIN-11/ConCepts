@@ -9,7 +9,6 @@ minimum time
 
 
 
-
 Input:
 N = 10
 L = 4
