@@ -7,6 +7,18 @@ minutes. So, it take 2 + 4 + 6 = 12 minutes to make 3 donuts. A chef can move on
 Since, it's time for the party, Geek wants to know the minimum time required in completing N donuts. Return an integer denoting the 
 minimum time
 
+
+
+
+
+
+
+
+
+
+
+
+
 Input:
 N = 10
 L = 4
