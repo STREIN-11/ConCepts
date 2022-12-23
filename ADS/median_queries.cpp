@@ -4,6 +4,15 @@ using namespace std;
 #define maxn 3000005
 #define max_elem 1000000
 
+
+
+
+
+
+
+
+
+
 int tree[maxn];
 void update(int node,int a,int b,int x,int diff){
    if(a == b && a==x){
