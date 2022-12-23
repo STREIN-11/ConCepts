@@ -8,7 +8,6 @@ Since, it's time for the party, Geek wants to know the minimum time required in 
 minimum time
 
 
-
 Input:
 N = 10
 L = 4
