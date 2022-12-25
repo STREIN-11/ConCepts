@@ -2,6 +2,14 @@
 Given an array of integers and a number k, write a function that returns true if given array can be divided into pairs such that sum 
 of every pair is divisible by k.
 
+
+
+
+
+
+
+
+
 Input : arr = [9, 5, 7, 3], k = 6
 Output: True
 Explanation: {(9, 3), (5, 7)} is a 
