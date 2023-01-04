@@ -11,7 +11,6 @@ by 6 and 7 + 5 = 12 is also divisible by 6.
 
 
 
-
 Input : arr = [2, 4, 1, 3], k = 4
 Output: False
 Explanation: There is no possible solution.*/
