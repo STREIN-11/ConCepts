@@ -5,7 +5,6 @@ The knights have to be placed on different squares. A knight can move two square
 or two squares vertically and one square horizontally (L shaped). The knights attack each other if one can reach the other in one move.
 
 
-
 Input:
 N = 2, M = 2
 Output: 12 
