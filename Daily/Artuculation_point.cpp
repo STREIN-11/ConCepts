@@ -8,7 +8,6 @@ https://practice.geeksforgeeks.org/problems/articulation-point-1/1
 //Initial Template for C++
 
 
-
 #include<bits/stdc++.h>
 using namespace std;
 
