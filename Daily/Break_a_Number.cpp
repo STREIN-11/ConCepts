@@ -4,7 +4,6 @@ Given a really large number N, break it into 3 whole numbers such that they sum 
 Input:
 
 
-
 N = 2
 Output:
 6
