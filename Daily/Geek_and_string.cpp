@@ -1,6 +1,5 @@
 //{ Driver Code Starts
 // Initial Template for C++
-
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -10,7 +9,6 @@ using namespace std;
 class Solution{
 public:
     vector<int> prefixCount(int N, int Q, string li[], string query[])
-
     {
 
  map<string,int>m;
