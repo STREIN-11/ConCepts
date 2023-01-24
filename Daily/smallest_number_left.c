@@ -12,7 +12,6 @@ using namespace std;
 
 // } Driver Code Ends
 // User function Template for C++
-
 class Solution{
 public:
     vector<int> leftSmaller(int n, int a[]){
