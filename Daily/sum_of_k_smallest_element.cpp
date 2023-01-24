@@ -10,6 +10,14 @@ Input:
 
 Output: 22
 Explanation:
+
+
+
+
+
+
+
+
 Sum of 3 smallest elements are: 
 4 + 8 + 10 = 22*/
 //{ Driver Code Starts
