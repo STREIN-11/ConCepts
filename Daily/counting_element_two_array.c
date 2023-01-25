@@ -12,7 +12,6 @@ second array are respectively 4,5,5,6,6,6*/
 // array count elements less than or equal to it
 // in 2nd array
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
