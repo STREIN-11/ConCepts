@@ -11,10 +11,22 @@ second array are respectively 4,5,5,6,6,6*/
 // C++ implementation of For each element in 1st 
 // array count elements less than or equal to it
 // in 2nd array
-#include <bits/stdc++.h>
- 
-using namespace std;
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+#include <bits/stdc++.h>
+using namespace std;
 
 // } Driver Code Ends
 // function to count for each element in 1st array,
