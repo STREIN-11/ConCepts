@@ -16,7 +16,6 @@ second array are respectively 4,5,5,6,6,6*/
 
 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
