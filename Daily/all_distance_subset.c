@@ -8,6 +8,15 @@ calculated which are 0, 1, 2 and 3.
 2 if we choose only 2.
 3 if we choose 1 and 2.*/
 //{ Driver Code Starts
+
+
+
+
+
+
+
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
