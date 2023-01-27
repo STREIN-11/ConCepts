@@ -13,7 +13,6 @@ calculated which are 0, 1, 2 and 3.
 
 
 
-
 #include<bits/stdc++.h>
 using namespace std;
 
