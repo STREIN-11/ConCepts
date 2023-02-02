@@ -7,7 +7,6 @@ Output: 3 
 
 
 
-
 Explanation: The distinct numbers you can have are 
 just 1 and 2 and their sum is equal to 3.
 Input: n = 5
