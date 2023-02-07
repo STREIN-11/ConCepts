@@ -5,8 +5,6 @@ struct val{
 	int first;
 	int second;
 };
-
-// } Driver Code Ends
 /*
 The structure to use is as follows
 struct val{
