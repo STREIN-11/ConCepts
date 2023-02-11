@@ -10,7 +10,6 @@ Explanation: Since there is only one
 bucket. It may hold any number of balls 
 ranging from 1 to 6.
 
-
 Input: 
 n = 2 
 capacity = [5, 8]
