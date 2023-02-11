@@ -15,7 +15,6 @@ ranging from 1 to 6.
 
 
 
-
 Input: 
 n = 2 
 capacity = [5, 8]
