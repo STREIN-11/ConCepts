@@ -22,7 +22,6 @@ class Node {
 
 
 
-
 class reverse {
     static Node push(Node head, int val)
     {
