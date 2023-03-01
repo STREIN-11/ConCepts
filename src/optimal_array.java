@@ -7,7 +7,6 @@ Note:
 2. For each index, you need to consider the same array which was given to you at the start.
 
 
-
 Input:
 N=4
 A={1,6,9,12}
