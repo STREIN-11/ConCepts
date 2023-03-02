@@ -14,7 +14,6 @@ to 1.*/
 //{ Driver Code Starts
 //Initial Template for C++
 
-
 #include <bits/stdc++.h>
 using namespace std;
 #define MAX_HEIGHT 100000
