@@ -11,7 +11,6 @@ greater than 1 which forms a BST. All the
 leaf Nodes are the BSTs with size equal
 to 1.*/
 
-
 //{ Driver Code Starts
 //Initial Template for C++
 
