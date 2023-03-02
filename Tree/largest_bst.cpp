@@ -31,7 +31,6 @@ Node* newNode(int val) {
     temp->data = val;
     temp->left = NULL;
     temp->right = NULL;
-
     return temp;
 }
 
@@ -40,7 +39,6 @@ Node* newNode(int val) {
 Node* buildTree(string str) {
     // Corner Case
     if (str.length() == 0 || str[0] == 'N') return NULL;
-
     // Creating vector of strings from input
     // string after spliting by space
     vector<string> ip;
@@ -68,7 +66,6 @@ Node* buildTree(string str) {
 
         // If the left child is not null
         if (currVal != "N") {
-
             // Create the left child for the current node
             currNode->left = newNode(stoi(currVal));
 
