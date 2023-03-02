@@ -147,8 +147,6 @@ class Solution{
   
 
 int main() {
-
-   
     int t;
     scanf("%d ", &t);
     while (t--) {
@@ -161,5 +159,4 @@ int main() {
     }
     return 0;
 }
-
 // } Driver Code Ends
