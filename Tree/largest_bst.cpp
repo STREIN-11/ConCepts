@@ -12,7 +12,6 @@ leaf Nodes are the BSTs with size equal
 to 1.*/
 
 
-
 //{ Driver Code Starts
 //Initial Template for C++
 
