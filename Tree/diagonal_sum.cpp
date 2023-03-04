@@ -5,7 +5,6 @@ struct Node{
     struct Node* left,* right;
 };
 
-
 struct Node* create(int data){
     struct Node* neww = (struct Node*)malloc(sizeof(struct Node));
     neww->data = data;
