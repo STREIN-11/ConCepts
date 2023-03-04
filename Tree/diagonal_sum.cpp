@@ -14,7 +14,6 @@ struct Node{
 
 
 
-
 struct Node* create(int data){
     struct Node* neww = (struct Node*)malloc(sizeof(struct Node));
     neww->data = data;
