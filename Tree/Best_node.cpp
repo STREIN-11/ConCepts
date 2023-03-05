@@ -11,6 +11,21 @@ Let us define a function f over B, which is defined as follows:
 f(B) = B1 - B2 + B3 - B4 + B5.... + (-1)(k-1)Bk.
 You have to find the maximum possible value of f(B).
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Input:
 N = 3,
 A = { 1, 2, 3}
