@@ -16,7 +16,6 @@ You have to find the maximum possible value of f(B).
 
 
 
-
 Input:
 N = 3,
 A = { 1, 2, 3}
