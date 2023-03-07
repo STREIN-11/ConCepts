@@ -12,7 +12,6 @@ calculated which are 0, 1, 2 and 3.
 #include<bits/stdc++.h>
 using namespace std;
 
-
 class Solution {
     set<int> s;
     int dp[101][10001];
