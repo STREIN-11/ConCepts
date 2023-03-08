@@ -13,8 +13,6 @@ Explanation:  DLL would be
 
 #include <bits/stdc++.h>
 using namespace std;
-
-// Tree Node
 struct Node
 {
     int data;
