@@ -12,7 +12,6 @@ Given an array arr of size n, the task is to find the maximum
 
 
 
-
 Input:
 n = 4
 arr[] = {1, 2, 3, 5}
