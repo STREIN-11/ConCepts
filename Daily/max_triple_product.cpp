@@ -20,16 +20,8 @@ Explanation:
 -3*-5*8 gives 120. This is the maximum possible triplet product in the array.
 */
 
-//{ Driver Code Starts
-//Initial Template for CPP
-
 #include <bits/stdc++.h>
 using namespace std;
-
-
-// } Driver Code Ends
-//User function Template for C++
-
 class Solution {
   public:
     long long maxTripletProduct(long long arr[], int n){
