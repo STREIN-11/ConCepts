@@ -11,7 +11,6 @@ Example 1:
 
 
 
-
 Input: 
 N=2
 a[]={5, 10}
