@@ -6,6 +6,18 @@ Assume an extra 1 at each boundary.
 
 Example 1:
 
+
+
+
+
+
+
+
+
+
+
+
+
 Input: 
 N=2
 a[]={5, 10}
