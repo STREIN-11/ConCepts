@@ -5,7 +5,6 @@ Also, balloons i-1 and i+1 now become adjacent. Find the maximum possible profit
 Assume an extra 1 at each boundary.
 
 Example 1:
-
 Input: 
 N=2
 a[]={5, 10}
