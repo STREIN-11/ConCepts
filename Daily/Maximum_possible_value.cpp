@@ -3,6 +3,17 @@ Given two arrays A[] and B[] of same length N. There are N types of sticks of le
 A[i] is present in B[i] units (i=1 to N). You have to construct the squares and rectangles using these sticks. Each unit of a s
 tick can be used as length or breadth of a rectangle or as a side of square. A single unit of a stick can be used only once.
 
+
+
+
+
+
+
+
+
+
+
+
 Let S be the sum of lengths of all sticks that are used in constructing squares and rectangles. The task is to calulate the maximum 
 possible value of S.
 Note: The element in array A[] is always unique.
