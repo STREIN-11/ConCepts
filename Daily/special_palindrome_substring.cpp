@@ -10,7 +10,6 @@ well as contains substring of s2, then return -1.
 
 
 
-
 Input:
 s1="abaa" s2="bb"
 Output: 1
