@@ -1,10 +1,8 @@
 /*
-Given two strings s1 and s2, The task is to convert s1 into a palindrome such that s1 contain s2 as a substring in a 
-minimum number of operation.
+Given two strings s1 and s2, The task is to convert s1 into a palindrome such that s1 contain s2 as a substring in a minimum number of operation.
 In a single operation, we can replace any word of s1 with any character.
-
 Note: If it is not possible to convert s1 such that it is a palindrome as
- well as contains substring of s2, then return -1.
+well as contains substring of s2, then return -1.
 
 Input:
 s1="abaa" s2="bb"
