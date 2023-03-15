@@ -4,6 +4,15 @@ In a single operation, we can replace any word of s1 with any character.
 Note: If it is not possible to convert s1 such that it is a palindrome as
 well as contains substring of s2, then return -1.
 
+
+
+
+
+
+
+
+
+
 Input:
 s1="abaa" s2="bb"
 Output: 1
