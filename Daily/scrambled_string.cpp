@@ -14,7 +14,6 @@ Example 1:
 
 
 
-
 Input: S1="coder", S2="ocder"
 Output: Yes
 Explanation: ocder is a scrambled 
