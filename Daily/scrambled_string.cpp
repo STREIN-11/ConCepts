@@ -10,7 +10,6 @@ Print "Yes" if S2 is a scrambled form of S1 otherwise print "No".
 Example 1:
 
 
-
 Input: S1="coder", S2="ocder"
 Output: Yes
 Explanation: ocder is a scrambled 
