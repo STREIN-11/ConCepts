@@ -22,8 +22,6 @@ So difference is 2-0 = 2.*/
 //{ Driver Code Starts
 #include<bits/stdc++.h>
 using namespace std;
-
-
 class Array
 {
 public:
