@@ -1,3 +1,19 @@
+/*
+Input : A[] = { 1, 2, 3, 4}
+        B[] = { 2, 3, 4, 5, 8 }
+Output : 3
+We need to remove 2, 3 and 4 from any array.
+
+Input : A[] = { 4, 2, 4, 4}
+        B[] = { 4, 3 }
+Output : 1
+We need to remove 4 from B[]
+
+Input : A[] = { 1, 2, 3, 4 }
+        B[] = { 5, 6, 7 }
+Output : 0
+There is no common element in both.*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
