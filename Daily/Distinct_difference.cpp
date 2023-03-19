@@ -1,6 +1,7 @@
 /*
 Given an array A[] of length N. For each index i (1<=i<=N), find the diffference between the number of distinct element 
 in it's left and right side in the array. 
+
 Input:
 N = 3
 arr[] = {4, 3, 3}
