@@ -15,9 +15,7 @@ N = 4
 arr[] = {4, 4, 3, 3}
 Output: {-2, 0, 0, 2}
 Explanation: For index i=1, there are 0 distinct element in the left side of it, and 2 distinct element(4 and 3) in it's right side. So difference is 0-2 = -2.
-
 Similarly for index i=2, there is 1 distinct element (4) in left side of it, and 1 distinct element(3) in it's right side. So difference is 1-1 = 0.
-
 Similarly for index i=4, there are 2 distinct elements (4 and 3) in left side of it, and 0 distinct element in it's right side. 
 So difference is 2-0 = 2.*/
 
