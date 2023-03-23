@@ -18,7 +18,6 @@ int count(int coins[], int n, int sum){
 
 
 
-
 int main()
 {
 	int coins[] = { 1, 2, 3 };
