@@ -16,6 +16,16 @@ int count(int coins[], int n, int sum){
 	return table[sum][n - 1];
 }
 
+
+
+
+
+
+
+
+
+
+
 int main()
 {
 	int coins[] = { 1, 2, 3 };
