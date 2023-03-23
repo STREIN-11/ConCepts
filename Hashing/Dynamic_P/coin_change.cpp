@@ -1,3 +1,12 @@
+/*
+Input: sum = 4, coins[] = {1,2,3}, 
+Output: 4
+Explanation: there are four solutions: {1, 1, 1, 1}, {1, 1, 2}, {2, 2}, {1, 3}. 
+Input: sum = 10, coins[] = {2, 5, 3, 6}
+Output: 5
+Explanation: There are five solutions: 
+{2,2,2,2,2}, {2,2,3,3}, {2,2,6}, {2,3,5} and {5,5}.*/
+
 #include <bits/stdc++.h>
 using namespace std;
 int count(int coins[], int n, int sum){
