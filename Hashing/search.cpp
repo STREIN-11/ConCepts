@@ -1,8 +1,6 @@
 // CPP program to implement direct index mapping
 // with negative values allowed.
 
-
-
 #include <bits/stdc++.h>
 using namespace std;
 #define MAX 1000
