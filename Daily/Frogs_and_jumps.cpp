@@ -10,7 +10,6 @@ of the frogs when all frogs have reached the other end of the pond.
 
 
 
-
 Input:
 N = 3
 leaves = 4
