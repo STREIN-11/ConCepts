@@ -27,10 +27,6 @@ leaf is left unvisited.*/
 // Initial Template for C++
 #include <bits/stdc++.h>
 using namespace std;
-
-// } Driver Code Ends
-//User function Template for C++
-
 class Solution {
   public:
     int unvisitedLeaves(int N, int leaves, int frogs[]) {
