@@ -3,8 +3,6 @@ Given two integers N and K, the task is to count the number of ways to divide N 
 such that their sum is N and the number of elements in groups follows a non-decreasing order (i.e. group[i] <= group[i+1]).
 
 
-
-
 Input:
 N = 8
 K = 4
