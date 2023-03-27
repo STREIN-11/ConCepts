@@ -7,7 +7,6 @@ such that their sum is N and the number of elements in groups follows a non-decr
 
 
 
-
 Input:
 N = 8
 K = 4
