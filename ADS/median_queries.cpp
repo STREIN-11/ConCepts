@@ -7,7 +7,6 @@ using namespace std;
 
 
 
-
 int tree[maxn];
 void update(int node,int a,int b,int x,int diff){
    if(a == b && a==x){
