@@ -4,7 +4,6 @@ in the array, find the minimum integer X such that S ≤ N*X.
 
 
 
-
 Input:
 N = 3,
 A = { 1, 3, 2}
