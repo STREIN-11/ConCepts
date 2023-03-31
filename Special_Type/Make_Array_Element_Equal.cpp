@@ -32,12 +32,11 @@ using namespace std;
 class Solution {
   public:
     long long int minOperations(int N) {
-        // Code here
         return 1LL*N*N/4;
     }
 };
 
-//{ Driver Code Starts.
+
 int main() {
     int t;
     cin >> t;
@@ -49,4 +48,3 @@ int main() {
     }
     return 0;
 }
-// } Driver Code Ends
