@@ -26,14 +26,8 @@ The array initially is {1, 3}. After performing
 an operation the array will be {2, 2}. Hence,
 the answer is 1 in this case.*/
 
-//{ Driver Code Starts
-// Initial Template for C++
-
 #include <bits/stdc++.h>
 using namespace std;
-
-// } Driver Code Ends
-// User function Template for C++
 
 class Solution {
   public:
