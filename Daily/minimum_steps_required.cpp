@@ -8,7 +8,6 @@ Given a string str consisting of only two characters 'a' and 'b'. You need to fi
 
 
 
-
 Input:
 str = "bbaaabb"
 Output:
