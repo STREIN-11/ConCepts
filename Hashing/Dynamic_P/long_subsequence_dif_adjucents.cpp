@@ -8,7 +8,6 @@ As longest subsequences with difference 1 are, "10, 9, 8",
 
 
 
-
 Input :  arr[] = {1, 2, 3, 2, 3, 7, 2, 1}
 Output :  7
 As longest consecutive sequence is "1, 2, 3, 2, 3, 2, 1"*/
