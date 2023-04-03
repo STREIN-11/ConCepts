@@ -3,7 +3,6 @@ Given a string str consisting of only two characters 'a' and 'b'. You need to fi
  make the string empty by removing consecutive a's and b's.
 
 
-
 Input:
 str = "bbaaabb"
 Output:
