@@ -27,7 +27,6 @@ Turns will be at 2, 1, 3, 6.
 
 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
