@@ -8,7 +8,6 @@ Explanation: The resultant string
 after adding 3 characters is DCBABCD.
 The minimum possible answer is 3.
 
-
 Example 2:
 Input:
 str = ABA
