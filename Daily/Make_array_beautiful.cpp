@@ -4,7 +4,6 @@ arr[i] and arr[i+1] have the same sign. And you can do the following operation a
 If two adjacent integers have different signs, remove them.
 Return the beautiful array after performing the above operation.
 
-
 Note: An empty array is also a beautiful array. There can be many adjacent integers with different signs. So remove adjacent 
 integers with different signs from left to right.
 
