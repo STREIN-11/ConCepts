@@ -17,7 +17,6 @@ The minimum possible answer is 3.
 
 
 
-
 Example 2:
 Input:
 str = ABA
