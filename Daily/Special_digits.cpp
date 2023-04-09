@@ -8,7 +8,6 @@ Find the number of best integers of length N. Since the number of best integers 
 
 
 
-
 Input:
 N = 2, A = 1, B = 2, C = 3, D = 5
 Output: 
