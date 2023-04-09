@@ -4,6 +4,15 @@ Let us say all the integers of length N, having only A or B in their decimal rep
 Also, among all the good integers, all those integers whose sum of digits contains either C or D or both are best integers.
 Find the number of best integers of length N. Since the number of best integers can be huge, print it modulo 109+7.
 
+
+
+
+
+
+
+
+
+
 Input:
 N = 2, A = 1, B = 2, C = 3, D = 5
 Output: 
