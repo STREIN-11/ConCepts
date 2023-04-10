@@ -5,7 +5,6 @@ given N line segments.
 
 
 
-
 Example 1:
 Input:
 N = 4
