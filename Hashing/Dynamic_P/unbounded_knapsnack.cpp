@@ -17,7 +17,6 @@ We get maximum value with option 2.
 
 
 
-
 Input : W = 8
        val[] = {10, 40, 50, 70}
        wt[]  = {1, 3, 4, 5}       
