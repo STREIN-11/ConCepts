@@ -10,8 +10,6 @@ Output: 6
 
 
 
-
-
 Explanation: The distinct numbers you can have 
 are just 1 and 5 and their sum is equal to 6. */
 //{ Driver Code Starts
