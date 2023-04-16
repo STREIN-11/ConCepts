@@ -4,7 +4,6 @@ A[i] is present in B[i] units (i=1 to N). You have to construct the squares and 
 tick can be used as length or breadth of a rectangle or as a side of square. A single unit of a stick can be used only once.
 
 
-
 Let S be the sum of lengths of all sticks that are used in constructing squares and rectangles. The task is to calulate the maximum 
 possible value of S.
 Note: The element in array A[] is always unique.
