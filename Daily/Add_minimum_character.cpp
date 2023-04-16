@@ -1,7 +1,6 @@
 /*
 Given a string str, find the minimum characters to be added at front of the string to make it a palindrome.
 
-
 Input:
 str = ABCD
 Output: 3
