@@ -18,7 +18,6 @@ Explanation:  DLL would be
 
 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 struct Node
