@@ -28,15 +28,8 @@ Explanation:
 2nd Operation : We can pick 2 & 2, subtract 2-2 => {0,2}
 After this no operation can be performned, so maximum no is left in the array is 2, so the ans is 2.*/
 
-//{ Driver Code Starts
-//Initial Template for C++
-
 #include <bits/stdc++.h>
 using namespace std;
-
-
-// } Driver Code Ends
-//User function Template for C++
 
 class Solution{
 public:
