@@ -4,7 +4,6 @@ You are given an array arr of n elements. In one operation you can pick two indi
  of such operations.
 
 Example 1:
-
 Input:
 n = 3
 arr = {3,2,4}
@@ -19,7 +18,6 @@ Explanation:
 After this no operation can be performned, so maximum no is left in the array is 1, so the ans is 1.
 
 Example 2:
-
 Input:
 n = 2
 arr = {2,4}
