@@ -6,7 +6,8 @@ When two people cross the bridge, they must move at the slower
 person’s pace. Find the minimum total time in which all persons 
 can cross the bridge.
 
-Input:  Crossing Times = {10, 20, 30}
+Input:  
+Crossing Times = {10, 20, 30}
 Output: 60
 Explanation
 1. Firstly person '1' and '2' cross the bridge
