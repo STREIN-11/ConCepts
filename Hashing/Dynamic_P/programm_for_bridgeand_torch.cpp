@@ -7,7 +7,6 @@ person’s pace. Find the minimum total time in which all persons
 can cross the bridge.
 
 
-
 Input:  Crossing Times = {10, 20, 30}
 Output: 60
 Explanation
