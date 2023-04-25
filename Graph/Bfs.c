@@ -4,7 +4,6 @@
 
 #define MAX_VERTICES 50
 
-
 typedef struct Graph_t {
 
 	int V;
