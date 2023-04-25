@@ -3,6 +3,7 @@ Geek's Paint Shop is one of the famous shop in Geekland, but 2014 Earthquake cau
  Each item in his shop is a 40-digit alpha numeric code .Now Chunky wants to retain the reputation of his shop, for that he has to arrange 
 all the distinct items in lexicographical order.Your task is to arrange the all the distinct items in lexicographical ascending order 
 and print them along with their count.
+
 Input:
 N = 3
 A[] =
