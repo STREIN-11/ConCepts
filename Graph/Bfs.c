@@ -14,7 +14,6 @@
 
 
 
-
 typedef struct Graph_t {
 
 	int V;
