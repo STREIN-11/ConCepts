@@ -4,7 +4,6 @@ Geek's Paint Shop is one of the famous shop in Geekland, but 2014 Earthquake cau
 all the distinct items in lexicographical order.Your task is to arrange the all the distinct items in lexicographical ascending order 
 and print them along with their count.
 Input:
-
 N = 3
 A[] =
 ["2234597891 zmxvvxbcij 8800654113 jihgfedcba",
