@@ -10,7 +10,6 @@ Input:
 
 
 
-
 N = 3
 A[] =
 ["2234597891 zmxvvxbcij 8800654113 jihgfedcba",
