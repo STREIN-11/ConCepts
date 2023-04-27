@@ -9,7 +9,6 @@ N - Prohibited area(Not allowed to enter this area)
 
 
 
-
 Every house in the village needs to take the water from the well, as the family members are so busy with their work, 
 so every family wants to take the water from the well in minimum time, which is possible only if they have to cover as
  less distance as possible. Your task is to determine the minimum distance that a person in the house should travel to take
