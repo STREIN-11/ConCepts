@@ -2,7 +2,6 @@
 
 
 
-
 #include <stdbool.h>
 #include <stdio.h>
 #define V 4
