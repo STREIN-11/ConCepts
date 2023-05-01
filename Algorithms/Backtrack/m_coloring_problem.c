@@ -1,6 +1,5 @@
 /*https://www.geeksforgeeks.org/m-coloring-problem/*/
 
-
 #include <stdbool.h>
 #include <stdio.h>
 #define V 4
