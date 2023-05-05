@@ -6,7 +6,6 @@ Note: Subtree of a node consists of that node and all nodes of the subtrees of l
 
 
 
-
 https://practice.geeksforgeeks.org/problems/df12afc57250e7f6fc101aa9c272343184fe9859/1*/
 
 #include <bits/stdc++.h>
