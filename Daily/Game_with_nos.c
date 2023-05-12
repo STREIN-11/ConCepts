@@ -5,6 +5,7 @@ Explanation:
 At index 0, arr[0] xor arr[1] = 1
 At index 1, arr[1] xor arr[2] = 10
 At index 2, arr[2] xor arr[3] = 3
+
 ...
 At index 4, No element is left So, it will remain as
 it is.
