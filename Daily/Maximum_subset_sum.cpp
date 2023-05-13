@@ -10,7 +10,6 @@ every two consecutive elements in the array, at least one of the elements is pre
 
 
 
-
 Input: 
 N = 4
 A[] = {1, -1, 3, 4}
