@@ -3,6 +3,13 @@ Given the maximum occurrences of a, b, and c in a string. Your task is to make t
 a, b, and c such that no three consecutive characters are the same. If the resultant string equals to a+b+c, 
 return the length (a+b+c) otherwise -1.
 
+
+
+
+
+
+
+
 Example 1:
 Input:
 a = 3, b = 3, c = 3
