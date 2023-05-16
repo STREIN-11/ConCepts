@@ -12,7 +12,6 @@ on taking 'U' it goes to (i+1,j).
 
 
 
-
 Input: 
 n = 1, m = 1
 s = "R"
