@@ -7,7 +7,6 @@ Note: The string s is a binary string. And if no such cuts are possible, then re
 
 
 
-
 Input:
 s = "101101101"
 Output: 
