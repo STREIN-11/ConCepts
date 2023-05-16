@@ -4,7 +4,6 @@ cut into C pieces and each piece should be of the power of 5  with no leading ze
 Note: The string s is a binary string. And if no such cuts are possible, then return -1.
 
 
-
 Input:
 s = "101101101"
 Output: 
