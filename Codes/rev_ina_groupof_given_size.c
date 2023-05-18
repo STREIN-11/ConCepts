@@ -5,7 +5,6 @@
 
 
 
-
 struct Node
 {
     int data;
