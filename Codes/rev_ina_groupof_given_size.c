@@ -2,8 +2,6 @@
 #include <stdlib.h>
 
 
-
-
 struct Node
 {
     int data;
