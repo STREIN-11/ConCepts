@@ -18,7 +18,6 @@ can rearrange the cards, or false otherwise.
 
 
 
-
 Input:
 N = 9
 groupSize = 3
