@@ -7,7 +7,6 @@ your task is to complete the function constructBinaryTree(), that constructs the
 
 
 
-
 Note: It is not possible to construct a general binary tree using these two traversal. But it is possible to create a full binary 
 tree using the above traversals without any ambiguity.
 
