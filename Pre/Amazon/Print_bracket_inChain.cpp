@@ -13,7 +13,6 @@ obtained by putting parenthesis in following way
 
 
 
-
 Input: p[] = {10, 20, 30, 40, 30} 
 Output: Optimal parenthesization is (((AB)C)D)
         Optimal cost of parenthesization is 30000
