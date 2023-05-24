@@ -9,7 +9,6 @@ obtained by putting parenthesis in following way
 (A(BC))D --> 20*30*10 + 40*20*10 + 40*10*30
 
 
-
 Input: p[] = {10, 20, 30, 40, 30} 
 Output: Optimal parenthesization is (((AB)C)D)
         Optimal cost of parenthesization is 30000
