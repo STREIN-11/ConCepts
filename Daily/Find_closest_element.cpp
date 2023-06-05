@@ -3,8 +3,6 @@ Given a BST and an integer. Find the least absolute difference between any node 
 
 
 
-
-
 Input:
         10
       /   \
