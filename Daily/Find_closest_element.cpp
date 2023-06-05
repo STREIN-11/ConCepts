@@ -1,6 +1,5 @@
 /*
 Given a BST and an integer. Find the least absolute difference between any node value of the BST and the given integer.
-
 Input:
         10
       /   \
