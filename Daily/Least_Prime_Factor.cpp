@@ -7,7 +7,6 @@ Note :
     You need to return an array/vector/list of size N+1 and need to use 1-based indexing to store the answer for each number.
 
 
-
 Input: N = 6
 Output: [0, 1, 2, 3, 2, 5, 2] 
 Explanation: least prime factor of 1 = 1,
