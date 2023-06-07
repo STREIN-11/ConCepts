@@ -10,7 +10,6 @@ Note :
 
 
 
-
 Input: N = 6
 Output: [0, 1, 2, 3, 2, 5, 2] 
 Explanation: least prime factor of 1 = 1,
