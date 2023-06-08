@@ -21,8 +21,19 @@ int bsearch(vector<int> A, int key_to_search){
 }
 
 int main(void){
-    vector<int> A = { -2, 10, 100, 250, 32315 };
-    cout << bsearch(A, 10) << endl;
+    int size,key;
+    cout<<"Enter Size : ";
+    cin>>size;
+    int data;
+    cout<<"Enter Data : ";
+    vector<int> A;
+    for (int i = 0; i < size; i++){
+        cin>>data;
+        A.push_back(data);
+    }
+    cout<<"Enter The Key : ";
+    cin>>key;
+    cout << bsearch(A, key) << endl;
  
     return 0;
 }
