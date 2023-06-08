@@ -3,6 +3,12 @@
  can be used to find an element in an array.
  https://www.geeksforgeeks.org/ternary-search/ */
 
+
+
+
+
+
+
 // C++ program to illustrate
 // recursive approach to ternary search
 #include <bits/stdc++.h>
