@@ -6,7 +6,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Function to perform Ternary Search
 int ternarySearch(int l, int r, int key, int ar[])
 {
 	if (r >= l) {
