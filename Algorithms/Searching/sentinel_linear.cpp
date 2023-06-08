@@ -31,5 +31,5 @@ int main(){
     cout<<"Enter The Key : ";
     cin>>key;
     sentinelSearch(arr, size, key);
-return 0;
+    return 0;
 }
