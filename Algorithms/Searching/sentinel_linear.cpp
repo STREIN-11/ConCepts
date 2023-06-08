@@ -22,7 +22,7 @@ int main(){
     int size,key;
     cout<<"Enter Size : ";
     cin>>size;
-	int arr[size];
+    int arr[size];
 	// int n = sizeof(arr) / sizeof(arr[0]);
     cout<<"Enter Array Elements : ";
     for (int i = 0; i < size; i++){
@@ -30,7 +30,6 @@ int main(){
     }
     cout<<"Enter The Key : ";
     cin>>key;
-	sentinelSearch(arr, size, key);
-
-	return 0;
+    sentinelSearch(arr, size, key);
+return 0;
 }
