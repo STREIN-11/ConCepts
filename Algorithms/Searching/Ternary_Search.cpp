@@ -6,7 +6,6 @@
 
 
 
-
 // C++ program to illustrate
 // recursive approach to ternary search
 #include <bits/stdc++.h>
