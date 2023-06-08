@@ -4,7 +4,6 @@
  https://www.geeksforgeeks.org/ternary-search/ */
 
 
-
 // C++ program to illustrate
 // recursive approach to ternary search
 #include <bits/stdc++.h>
