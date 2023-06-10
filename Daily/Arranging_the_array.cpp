@@ -5,7 +5,6 @@ You are given an array of size N. Rearrange the given array in-place such that a
 
 
 
-
 Input:
 N = 4
 Arr[] = {-3, 3, -2, 2}
