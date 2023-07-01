@@ -2,7 +2,6 @@
 using namespace std;
 
 
-
 bool isParenthesis(char c)
 {
 	return ((c == '(') || (c == ')'));
