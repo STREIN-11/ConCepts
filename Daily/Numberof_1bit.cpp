@@ -4,7 +4,6 @@ Given a positive integer N, print count of set bits in it.
 
 
 
-
 Example 1:
 
 Input:
