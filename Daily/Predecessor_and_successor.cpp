@@ -11,7 +11,6 @@ target is the successor.
 
 
 
-
 Input:
         10
       /   \
