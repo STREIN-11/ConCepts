@@ -6,7 +6,6 @@ Note:- In an inorder traversal the number just smaller than the target is the pr
 target is the successor. 
 
 
-
 Input:
         10
       /   \
