@@ -3,6 +3,11 @@ Given a matrix with n rows and m columns. Your task is to find the kth element w
 complete the method findK which takes four arguments the first argument is the matrix A and the next two arguments will be n and m denoting the size of 
 the matrix A and then the forth argument is an integer k. The function will return the kth element obtained while traversing the matrix spirally.
 
+
+
+
+
+
 Input:
 n = 4, m = 4, k = 10
 A[][] = {{1  2  3  4},
