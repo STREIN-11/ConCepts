@@ -1,7 +1,6 @@
 /*
 Given a stack, delete the middle element of the stack without using any additional data structure.
 Middle element:- ceil((size_of_stack+1)/2) (1-based indexing) from bottom of the stack.
-
 Note: The output shown by the compiler is the stack from top to bottom.
 
 Input: 
