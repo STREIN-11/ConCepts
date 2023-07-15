@@ -7,7 +7,6 @@ Note: The output shown by the compiler is the stack from top to bottom.
 
 
 
-
 Input: 
 Stack = {10, 20, 30, 40, 50}
 Output:
