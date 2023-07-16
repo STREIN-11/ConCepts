@@ -5,7 +5,6 @@ have appeared only once, you have to tell which one of them was the first one to
 then append '#' to the answer.
 
 
-
 Input: A = "aabc"
 Output: "a#bb"
 Explanation: For every character first non
