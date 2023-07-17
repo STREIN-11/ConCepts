@@ -7,7 +7,6 @@ different in the original string for A and B.
 
 
 
-
 Input:
 str = "axxzxy"
 Output: 2
