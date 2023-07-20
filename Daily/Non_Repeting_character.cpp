@@ -9,6 +9,7 @@ first character which is non-repeating
 is h, as it appears first and there is
 no other 'h' in the string.
 
+
 Example 2:
 Input:
 S = zxvczbtxyzvy
