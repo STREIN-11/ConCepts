@@ -4,7 +4,6 @@ A subsequence of array is called Bitonic if it is first strictly increasing, th
 
 
 
-
  
 Input: nums = [1, 2, 5, 3, 2]
 Output: 5
