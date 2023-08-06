@@ -3,6 +3,10 @@
 Return the minimum number of operation required to make a and b equal.
 Note: Here & represents bitwise AND operation.
 
+
+
+
+
 Input:
 a = 5, b = 12
 Output:
