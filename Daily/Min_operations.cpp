@@ -6,7 +6,6 @@ Note: Here & represents bitwise AND operation.
 
 
 
-
 Input:
 a = 5, b = 12
 Output:
