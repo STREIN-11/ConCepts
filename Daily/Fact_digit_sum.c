@@ -7,7 +7,6 @@ Note that A(80) and A(81) are also
 number.
 */
 
-
 #include<bits/stdc++.h>
 using namespace std;
 
