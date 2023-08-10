@@ -8,7 +8,6 @@ Output: 3
 Explanation: LCS for input strings “ABCDGH” and “AEDFHR” is “ADH” of length 3.
 
 
-
 Input:
 A = 3, B = 2
 str1 = ABC
