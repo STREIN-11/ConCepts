@@ -9,7 +9,6 @@ Explanation: LCS for input strings “ABCDGH” and “AEDFHR” is “ADH” of
 
 
 
-
 Input:
 A = 3, B = 2
 str1 = ABC
