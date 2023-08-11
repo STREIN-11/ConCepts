@@ -15,11 +15,8 @@ coins = {2,5,3,6}
 Output: 5
 Explanation: Five Possible ways are: {2,2,2,2,2}, {2,2,3,3}, {2,2,6}, {2,3,5} and {5,5}.*/
 
-//{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
-
-// } Driver Code Ends
 class Solution {
   public:
     long long int dp[1001][1001]; 
