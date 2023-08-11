@@ -7,7 +7,6 @@ Note: Assume that you have an infinite supply of each type of coin. And you can 
 
 
 
-
 Input:
 N = 3, sum = 4
 coins = {1,2,3}
