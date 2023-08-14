@@ -22,7 +22,6 @@ Output:
 Explanation:
 1 3 occur exactly once.*/
 
-
 #include<bits/stdc++.h>
 using namespace std;
 
