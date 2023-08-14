@@ -14,7 +14,6 @@ Explanation:
 3 and 4 occur exactly once.
 
 Example 2:
-
 Input:
 N = 1
 arr[] = {2, 1, 3, 2}
