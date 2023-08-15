@@ -5,8 +5,6 @@ that (0 ≤ l ≤ r < n) holds and flip the elements in this range to get the ma
 possibly make zero operations to get the answer.
 
 
-
-
 Input:
 N = 5
 A[] = {1, 0, 0, 1, 0} 
