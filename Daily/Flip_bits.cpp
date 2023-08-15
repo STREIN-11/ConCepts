@@ -8,7 +8,6 @@ possibly make zero operations to get the answer.
 
 
 
-
 Input:
 N = 5
 A[] = {1, 0, 0, 1, 0} 
