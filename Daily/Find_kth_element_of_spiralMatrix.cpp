@@ -5,7 +5,6 @@ the matrix A and then the forth argument is an integer k. The function will retu
 
 
 
-
 Input:
 n = 4, m = 4, k = 10
 A[][] = {{1  2  3  4},
