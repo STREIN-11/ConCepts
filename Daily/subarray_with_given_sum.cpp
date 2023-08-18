@@ -43,7 +43,6 @@ class Solution
 };
 
 
-
 int main()
  {
     int t;
