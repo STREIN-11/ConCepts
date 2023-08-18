@@ -2,7 +2,6 @@
 Given a 2D board of letters and a word. Check if the word exists in the board. The word can be constructed from letters of 
 adjacent cells only. ie - horizontal or vertical neighbors. The same letter cell can not be used more than once.
 
-
 Input: board = {{a,g,b,c},{q,e,e,l},{g,b,k,s}},
 word = "geeks"
 Output: 1
