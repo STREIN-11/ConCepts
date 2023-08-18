@@ -7,7 +7,6 @@ adjacent cells only. ie - horizontal or vertical neighbors. The same letter cell
 
 
 
-
 Input: board = {{a,g,b,c},{q,e,e,l},{g,b,k,s}},
 word = "geeks"
 Output: 1
