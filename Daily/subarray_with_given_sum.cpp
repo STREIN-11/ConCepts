@@ -22,7 +22,6 @@ Explanation: The sum of elements
 from 1st position to 5th position
 is 15.*/
 
-//{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
 
