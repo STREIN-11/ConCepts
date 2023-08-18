@@ -14,7 +14,6 @@ from 2nd position to 4th position
 is 12.
 
 Example 2:
-
 Input:
 N = 10, S = 15
 A[] = {1,2,3,4,5,6,7,8,9,10}
