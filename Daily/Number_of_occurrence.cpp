@@ -17,7 +17,7 @@ Output: 0
 Explanation: 4 is not present in the
 given array.*/
 
-//{ Driver Code Starts
+
 #include<bits/stdc++.h>
 
 using namespace std;
