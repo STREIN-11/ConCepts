@@ -10,7 +10,6 @@ Explanation: 2 occurs 4 times in the
 given array.
 
 Example 2:
-
 Input:
 N = 7, X = 4
 Arr[] = {1, 1, 2, 2, 2, 2, 3}
