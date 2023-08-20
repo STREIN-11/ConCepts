@@ -42,7 +42,6 @@ public:
     }
 };
 
-
 int main() {
     int t;
     cin >> t;
