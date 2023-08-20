@@ -22,7 +22,6 @@ given array.*/
 using namespace std;
 
 
-
 class Solution{
 public:	
 	/* if x is present in arr[] then returns the count
