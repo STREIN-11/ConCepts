@@ -22,8 +22,7 @@ given array.*/
 using namespace std;
 
 
-// } Driver Code Ends
-//User function template for C++
+
 class Solution{
 public:	
 	/* if x is present in arr[] then returns the count
