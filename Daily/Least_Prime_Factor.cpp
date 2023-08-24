@@ -4,7 +4,7 @@ number that divides it.
 Note :
 
 1 needs to be printed for 1.
-    You need to return an array/vector/list of size N+1 and need to use 1-based indexing to store the answer for each number.
+You need to return an array/vector/list of size N+1 and need to use 1-based indexing to store the answer for each number.
 
 Input: N = 6
 Output: [0, 1, 2, 3, 2, 5, 2] 
