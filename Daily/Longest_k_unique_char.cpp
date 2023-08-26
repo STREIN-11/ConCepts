@@ -11,7 +11,6 @@ Explanation:
 "cbebebe" is the longest substring with 3 distinct characters.
 
 Example 2:
-
 Input: 
 S = "aaaa", K = 2
 Output: -1
