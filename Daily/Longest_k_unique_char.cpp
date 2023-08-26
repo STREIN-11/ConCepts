@@ -17,7 +17,6 @@ Output: -1
 Explanation: 
 There's no substring with 2 distinct characters.*/
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
