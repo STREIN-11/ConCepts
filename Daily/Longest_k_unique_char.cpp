@@ -20,7 +20,6 @@ There's no substring with 2 distinct characters.*/
 #include <bits/stdc++.h>
 using namespace std;
 
-
 class Solution{
   public:
     int longestKSubstr(string s, int k) {
