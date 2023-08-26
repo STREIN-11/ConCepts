@@ -17,8 +17,6 @@ Output: -1
 Explanation: 
 There's no substring with 2 distinct characters.*/
 
-//{ Driver Code Starts
-//Initial template for C++
 
 #include <bits/stdc++.h>
 using namespace std;
