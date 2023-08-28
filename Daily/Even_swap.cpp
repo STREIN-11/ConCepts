@@ -5,6 +5,7 @@ Array b should be generated after applying the above operation any number of tim
  lexicographically the largest among all arrays that can be generated from array a, after applying the above 
 operation any number of times.
 
+
 Input:
 N=3
 a[]={1,3,5}
