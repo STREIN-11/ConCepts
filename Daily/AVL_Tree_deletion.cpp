@@ -4,7 +4,6 @@ All the N values which needs to be deleted are passed one by one as input data b
 return the root of modified tree after deleting the value.
 
 Example 1:
-
 Tree = 
         4
       /   \
