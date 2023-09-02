@@ -15,7 +15,6 @@ Input:
 Output: No
 
 Example 2:
-
 Input:
 T1    1     T2:    1
     /  \         /   \
