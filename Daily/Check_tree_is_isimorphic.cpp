@@ -100,9 +100,6 @@ Node* buildTree(string str)
     return root;
 }
 
-
-
-
 class Solution{
   public:
     // Return True if the given trees are isomotphic. Else return False.
