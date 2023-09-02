@@ -101,20 +101,7 @@ Node* buildTree(string str)
 }
 
 
-// } Driver Code Ends
-/*Complete the function below
-Node is as follows:
-struct Node {
-    int data;
-    Node *left;
-    Node *right;
 
-    Node(int val) {
-        data = val;
-        left = right = NULL;
-    }
-};
-*/
 
 class Solution{
   public:
