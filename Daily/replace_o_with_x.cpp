@@ -36,9 +36,6 @@ ans = {{'X', 'O', 'X', 'X'},
 Explanation: 
 Following the rule the above matrix is the resultant matrix.*/
 
-//{ Driver Code Starts
-// Initial Template for C++
-
 #include <bits/stdc++.h>
 using namespace std;
 
