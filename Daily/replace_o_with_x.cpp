@@ -21,7 +21,6 @@ Following the rule the above matrix is the resultant matrix.
 
 Example 2:
 
-
 Input: 
 n = 5, m = 4
 mat = {{'X', 'O', 'X', 'X'}, 
