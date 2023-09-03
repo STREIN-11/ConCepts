@@ -3,7 +3,6 @@ Given a matrix mat of size N x M where every element is either 'O' or 'X'. Repla
 A 'O' (or a set of 'O') is considered to be surrounded by 'X' if there are 'X' at locations just below, just above, just left and just right of it.
 
 Example 1:
-
 Input: 
 n = 5, m = 4
 mat = {{'X', 'X', 'X', 'X'}, 
