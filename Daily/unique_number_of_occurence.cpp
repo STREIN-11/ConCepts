@@ -3,7 +3,6 @@ Given an array arr of N integers, the task is to check whether the frequency of 
 is unique or not. Or in other words, there are no two distinct numbers in array with equal frequency. If all the 
 frequency is unique then return true, else return false.
 
-
 Input:
 N = 5
 arr = [1, 1, 2, 5, 5]
