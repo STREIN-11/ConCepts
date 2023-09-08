@@ -14,19 +14,10 @@ are just 1 and 5 and their sum is equal to 6. */
 //Initial Template for C++
 #include <bits/stdc++.h>
 using namespace std;
-
-// } Driver Code Ends
-//User function Template for C++
 class Solution {
   public:
     long long int maxSumLCM(int n) 
-
     {
-
-        // code here
-
-        // nothing but sum of all factor's of a number.
-
         long long int ans=0,i;
 
         for(i=1;i<=sqrt(n);i++)
