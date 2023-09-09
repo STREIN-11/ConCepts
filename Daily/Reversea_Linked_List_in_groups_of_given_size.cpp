@@ -12,7 +12,6 @@ and then the next 4 elements 5,6,7,8. Hence, the
 resultant linked list is 4->2->2->1->8->7->6->5.
 
 
-
 Input:
 LinkedList: 1->2->3->4->5
 K = 3
