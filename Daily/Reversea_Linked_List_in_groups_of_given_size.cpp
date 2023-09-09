@@ -24,7 +24,6 @@ the resultant linked list is 3->2->1->5->4.*/
 #include<bits/stdc++.h>
 using namespace std;
 
-
 struct node
 {
     int data;
