@@ -5,7 +5,6 @@ Two trees are called isomorphic if one can be obtained from another by a series 
 children of several nodes. Any number of nodes at any level can have their children swapped. Two empty trees are isomorphic.
 For example, the following two trees are isomorphic with the following sub-trees flipped: 2 and 3, NULL and 6, 7 and 8.
 
-
 Example 1:
 Input:
  T1    1     T2:   1
