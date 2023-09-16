@@ -22,7 +22,6 @@ Explanation:Below are the 7 ways to reach
 1 step + 3 step
 */
 
-//{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
 
