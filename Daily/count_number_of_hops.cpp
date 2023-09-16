@@ -3,7 +3,6 @@ A frog jumps either 1, 2, or 3 steps to go to the top. In how many ways can it r
 Nth step. As the answer will be large find the answer modulo 1000000007.
 
 Example 1:
-
 Input:
 N = 1
 Output: 1
