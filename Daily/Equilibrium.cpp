@@ -24,9 +24,6 @@ Since there's only element hence its only the equilibrium point.*/
 
 #include <iostream>
 using namespace std;
-
-
-// } Driver Code Ends
 class Solution{
     public:
     // Function to find equilibrium point in the array.
