@@ -21,7 +21,7 @@ Output:
 1
 Explanation:
 Since there's only element hence its only the equilibrium point.*/
-//{ Driver Code Starts
+
 #include <iostream>
 using namespace std;
 
