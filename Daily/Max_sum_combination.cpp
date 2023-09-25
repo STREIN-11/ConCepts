@@ -16,7 +16,6 @@ Explanation:
 6 -> (A : 2) + (B : 4)
 
 Example 2:
-
 Input:
 N = 4
 K = 3
