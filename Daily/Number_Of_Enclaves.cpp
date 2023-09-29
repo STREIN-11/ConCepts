@@ -38,10 +38,6 @@ The highlighted cells represents the land cells.*/
 #include <bits/stdc++.h>
 using namespace std;
 
-
-// } Driver Code Ends
-// User function Template for C++
-
 class Solution {
   private:
     void dfs(int i,int j,vector<vector<int>> &visit,vector<vector<int>> &grid){
