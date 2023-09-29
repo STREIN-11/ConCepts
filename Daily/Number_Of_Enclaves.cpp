@@ -19,7 +19,6 @@ Explanation:
 The highlighted cells represents the land cells.
 
 Example 2:
-
 Input:
 grid[][] = {{0, 0, 0, 1},
             {0, 1, 1, 0},
