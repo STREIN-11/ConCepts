@@ -35,9 +35,6 @@ Explanation:
 0 1 1 0
 The highlighted cells represents the land cells.*/
 
-//{ Driver Code Starts
-// Initial Template for C++
-
 #include <bits/stdc++.h>
 using namespace std;
 
