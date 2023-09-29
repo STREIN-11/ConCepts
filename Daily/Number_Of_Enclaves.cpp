@@ -6,7 +6,6 @@ A move consists of walking from one land cell to another adjacent (4-directional
 Find the number of land cells in grid for which we cannot walk off the boundary of the grid in any number of moves.
 
 Example 1:
-
 Input:
 grid[][] = {{0, 0, 0, 0},
             {1, 0, 1, 0},
