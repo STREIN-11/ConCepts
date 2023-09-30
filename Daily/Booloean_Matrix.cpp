@@ -18,7 +18,6 @@ cells in column 0 are modified to 1.
 
 
 Example 2:
-
 Input:
 R = 4, C = 3
 matrix[][] = {{ 1, 0, 0},
