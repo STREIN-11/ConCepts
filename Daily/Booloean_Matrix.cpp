@@ -4,7 +4,6 @@ modify it such that if a matrix cell matrix[i][j] is 1 then all the cells in its
 row and jth column will become 1.
 
 Example 1:
-
 Input:
 R = 2, C = 2
 matrix[][] = {{1, 0},
