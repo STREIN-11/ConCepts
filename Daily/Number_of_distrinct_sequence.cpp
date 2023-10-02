@@ -22,10 +22,6 @@ The four distinct subsequences are "", "g", "gg", "ggg". */
 #include <bits/stdc++.h>
 using namespace std;
 
-
-// } Driver Code Ends
-//User function template for C++
-
 class Solution{
   public:	
 	#define ll long long
