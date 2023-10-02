@@ -19,7 +19,6 @@ Output:
 Explanation: 
 The four distinct subsequences are "", "g", "gg", "ggg". */
 
-//{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
 
