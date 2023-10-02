@@ -4,7 +4,6 @@ of distinct subsequences of the string
 Note: Answer can be very large, so, ouput will be answer modulo 109+7.
 
 Example 1:
-
 Input: 
 s = "gfg"
 Output: 
