@@ -21,7 +21,6 @@ The four distinct subsequences are "", "g", "gg", "ggg". */
 
 #include <bits/stdc++.h>
 using namespace std;
-
 class Solution{
   public:	
 	#define ll long long
