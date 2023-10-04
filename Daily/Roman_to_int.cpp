@@ -15,7 +15,6 @@ s = V
 Output: 5
 
 Example 2:
-
 Input:
 s = III 
 Output: 3*/
