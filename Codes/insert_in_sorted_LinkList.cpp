@@ -2,7 +2,6 @@
 Given a linked list sorted in ascending order and an integer called data, insert data in the linked list such that the list remains sorted.
 
 Example 1:
-
 Input:
 LinkedList: 25->36->47->58->69->80
 data: 19
