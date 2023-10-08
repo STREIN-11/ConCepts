@@ -19,9 +19,6 @@ Output:
 Explanation:
 After inserting 75 the sorted linked list will look like the one in the output.*/
 
-//{ Driver Code Starts
-//
-
 #include <bits/stdc++.h> 
 using namespace std; 
 
