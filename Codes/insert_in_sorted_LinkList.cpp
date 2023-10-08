@@ -42,22 +42,6 @@ void printList(Node* node)
 	}  
 	cout<<"\n";
 }
-
-// } Driver Code Ends
-/*
-structure of the node of the list is as
-struct Node
-{
-    int data;
-    struct Node* next;
-
-    Node(int x){
-        data = x;
-        next = NULL;
-    }
-};
-*/
-
 class Solution{
   public:
     // Should return head of the modified linked list
