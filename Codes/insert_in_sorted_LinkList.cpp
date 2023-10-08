@@ -11,7 +11,6 @@ Explanation:
 After inserting 19 the sorted linked list will look like the one in the output.
 
 Example 2:
-
 Input:
 LinkedList: 50->100
 data: 75
