@@ -23,7 +23,6 @@ Explanation: The three nodes at distance 2
 from node 8 are 10, 14, 22.
 
 Example 2:
-
 Input:      
          20
        /    \
