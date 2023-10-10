@@ -8,7 +8,6 @@ Note:
     The tree will not contain duplicate values.
 
 Example 1:
-
 Input:      
           20
         /    \
