@@ -6,8 +6,7 @@ row and jth column will become 1.
 Example 1:
 Input:
 R = 2, C = 2
-matrix[][] = {{1, 0},
-{0, 0}}
+matrix[][] = {{1, 0},{0, 0}}
 Output: 
 1 1
 1 0 
