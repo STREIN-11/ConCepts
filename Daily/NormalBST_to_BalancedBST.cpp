@@ -47,16 +47,6 @@ struct Node
 	}
 };
 
-
-// } Driver Code Ends
-/*Structure of the Node of the BST is as
-struct Node
-{
-	int data;
-	Node* left, *right;
-};
-*/
-
 class Solution{
     
     private:
