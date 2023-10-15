@@ -30,7 +30,6 @@ Output:
      2        1                    4
 */
 
-//{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
 
