@@ -14,7 +14,6 @@ Output:
  10     30
 
 Example2:
-
 Input:
          4
         /
