@@ -22,8 +22,7 @@ So the first bucket has 5 choices and for each
 choice second bucket has 7 choices.
 So total there are 35 ways.*/
 
-//{ Driver Code Starts
-//Initial Template for C++
+
 
 #include<bits/stdc++.h>
 using namespace std;
