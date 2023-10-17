@@ -23,7 +23,6 @@ choice second bucket has 7 choices.
 So total there are 35 ways.*/
 
 
-
 #include<bits/stdc++.h>
 using namespace std;
 
