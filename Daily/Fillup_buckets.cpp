@@ -25,7 +25,6 @@ So total there are 35 ways.*/
 #include<bits/stdc++.h>
 using namespace std;
 
-
 class Solution{
 public:
     int totalWays(int n, vector<int> a) {
