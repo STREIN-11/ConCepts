@@ -7,7 +7,6 @@ linked list such that all zeros segregate to head side, 2s at the end of the lin
 
 
 
-
 Input:
 N = 8
 value[] = {1,2,2,1,2,0,2,2}
