@@ -4,7 +4,6 @@ You are given an array arr of n elements. In one operation you can pick two indi
  of such operations.
 
 
-
 Example 1:
 Input:
 n = 3
