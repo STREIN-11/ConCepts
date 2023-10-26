@@ -6,7 +6,6 @@ Note : Output array must be sorted in non-increasing order.
 
 
 
-
 Example 1:
 Input:
 N = 2
