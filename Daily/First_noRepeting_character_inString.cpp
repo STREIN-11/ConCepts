@@ -4,6 +4,9 @@ you have to tell which character has appeared only once in the stream upto that 
 have appeared only once, you have to tell which one of them was the first one to appear. If there is no such character 
 then append '#' to the answer.
 
+
+
+
 Input: A = "aabc"
 Output: "a#bb"
 Explanation: For every character first non
