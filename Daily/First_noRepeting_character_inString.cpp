@@ -6,7 +6,6 @@ then append '#' to the answer.
 
 
 
-
 Input: A = "aabc"
 Output: "a#bb"
 Explanation: For every character first non
