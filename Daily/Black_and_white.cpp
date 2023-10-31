@@ -6,7 +6,6 @@ or two squares vertically and one square horizontally (L shaped). The knights at
 
 
 
-
 Input:
 N = 2, M = 2
 Output: 12 
