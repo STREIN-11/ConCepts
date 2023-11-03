@@ -11,7 +11,6 @@ Explanation:
 The two parts are {1, 5, 5} and {11}.
 
 Example 2:
-
 Input: N = 3
 arr = {1, 3, 5}
 Output: NO
