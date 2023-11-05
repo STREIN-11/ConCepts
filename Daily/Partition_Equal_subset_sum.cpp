@@ -16,8 +16,7 @@ Output: NO
 Explanation: This array can never be 
 partitioned into two such parts.*/
 
-//{ Driver Code Starts
-// Initial Template for C++
+
 
 #include <bits/stdc++.h>
 using namespace std;
