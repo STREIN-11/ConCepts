@@ -19,9 +19,6 @@ partitioned into two such parts.*/
 #include <bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
-// User function Template for C++
-
 class Solution{
 public:
     int Solve(int arr[],int n,int i,int target,int sum, vector<vector<int>>&dp){
