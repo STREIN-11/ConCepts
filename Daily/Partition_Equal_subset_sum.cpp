@@ -17,7 +17,6 @@ Explanation: This array can never be
 partitioned into two such parts.*/
 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
