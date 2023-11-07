@@ -6,7 +6,6 @@ Note that A(80) and A(81) are also
 40321, But 18 is the smallest 
 number.
 */
-
 #include<bits/stdc++.h>
 using namespace std;
 class Solution{
