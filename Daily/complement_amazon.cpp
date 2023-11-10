@@ -7,7 +7,6 @@ the lexicographically smallest pair of L and R.
 
 
 
-
 Input:
 N = 3
 str = "111"
