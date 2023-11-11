@@ -9,7 +9,6 @@ Given string ABC has permutations in 6
 forms as ABC, ACB, BAC, BCA, CAB and CBA .
 
 
-
 Input: ABSG
 Output:
 ABGS ABSG AGBS AGSB ASBG ASGB BAGS 
