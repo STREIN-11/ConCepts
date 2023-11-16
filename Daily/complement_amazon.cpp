@@ -11,7 +11,6 @@ Output: -1
 Explanation: As all characters are '1', 
 so don't need to complement any.
 
-
 Input:
 N = 2
 str = "01"
