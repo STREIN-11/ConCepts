@@ -5,7 +5,6 @@ return the length (a+b+c) otherwise -1.
 
 
 
-
 Example 1:
 Input:
 a = 3, b = 3, c = 3
