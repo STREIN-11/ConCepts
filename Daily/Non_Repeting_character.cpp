@@ -1,5 +1,6 @@
 /*
 Given a string S consisting of lowercase Latin Letters. Return the first non-repeating character in S. If there is no non-repeating character, return '$'.
+
 Example 1:
 Input:
 S = hello
