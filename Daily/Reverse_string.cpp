@@ -7,7 +7,6 @@ Output: skeeG
 
 
 
-
 Example 2:
 Input:
 s = for
