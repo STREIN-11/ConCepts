@@ -3,7 +3,6 @@ Given an integer N. Find maximum LCM (Least Common Multiple) that can be obtain
 Note: Duplicate numbers can be used.
 
 
-
 Input:
 N = 4
 Output: 12
