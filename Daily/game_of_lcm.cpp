@@ -4,7 +4,6 @@ Note: Duplicate numbers can be used.
 
 
 
-
 Input:
 N = 4
 Output: 12
