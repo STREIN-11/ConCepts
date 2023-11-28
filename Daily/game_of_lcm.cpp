@@ -2,7 +2,6 @@
 Given an integer N. Find maximum LCM (Least Common Multiple) that can be obtained from four numbers less than or equal to N.
 Note: Duplicate numbers can be used.
 
-
 Input:
 N = 4
 Output: 12
