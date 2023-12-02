@@ -8,7 +8,6 @@ or equal to 1, 2, 3, 4, 7, and 9 in the
 second array are respectively 4,5,5,6,6,6*/
 
 
-
 //{ Driver Code Starts
 // C++ implementation of For each element in 1st 
 // array count elements less than or equal to it
