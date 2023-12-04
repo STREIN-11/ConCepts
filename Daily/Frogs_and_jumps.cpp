@@ -6,6 +6,8 @@ a frog having strength 2 will visit the leaves 2, 4, 6, ...  etc. while crossing
 Given the strength of each frog and the number of leaves, your task is to find the number of leaves that not be visited by any 
 of the frogs when all frogs have reached the other end of the pond. 
 
+
+
 Input:
 N = 3
 leaves = 4
