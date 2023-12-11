@@ -3,6 +3,10 @@ Given a singly linked list of size N. The task is to swap elements in the linked
 For example, if the input list is 1 2 3 4, the resulting list after swaps will be 2 1 4 3.
 Note: You need to swap the nodes, not only the data. If only data is swapped then driver will print -1.
 
+
+
+
+
 Example 1:
 Input:
 LinkedList: 1->2->2->4->5->6->7->8
