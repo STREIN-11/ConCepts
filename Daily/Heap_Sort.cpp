@@ -11,7 +11,6 @@ using heap sort, elements will be
 in order as 1,3,4,7,9.
 
 
-
 Input:
 N = 10
 arr[] = {10,9,8,7,6,5,4,3,2,1}
