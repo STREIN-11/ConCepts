@@ -6,7 +6,6 @@ Note: Return equilibrium point in 1-based indexing. Return -1 if no such point e
 
 
 
-
 Example 1:
 Input: 
 n = 5 
