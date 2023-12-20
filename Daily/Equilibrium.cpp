@@ -5,7 +5,6 @@ such that the sum of elements before it is equal to the sum of elements after it
 Note: Return equilibrium point in 1-based indexing. Return -1 if no such point exists. 
 
 
-
 Example 1:
 Input: 
 n = 5 
