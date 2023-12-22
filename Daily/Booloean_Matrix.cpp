@@ -5,7 +5,6 @@ row and jth column will become 1.
 
 
 
-
 Example 1:
 Input:
 R = 2, C = 2
