@@ -3,7 +3,6 @@ Given a string str, find the minimum characters to be added at front of the stri
 
 
 
-
 Input:
 str = ABCD
 Output: 3
