@@ -4,7 +4,6 @@ You are given a binary string s and an integer m. You need to return an integer 
 
 
 
-
 Input:
 s = "101" 
 m = 2
