@@ -4,7 +4,6 @@ A 'O' (or a set of 'O') is considered to be surrounded by 'X' if there are 'X' a
 
 
 
-
 Example 1:
 Input: 
 n = 5, m = 4
