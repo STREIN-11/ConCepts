@@ -12,7 +12,6 @@ so on... Modified array is : 6 1 5 2 4 3.*/
 #include <bits/stdc++.h>
 using namespace std;
 
-
 // } Driver Code Ends
 class Solution{
     public:
