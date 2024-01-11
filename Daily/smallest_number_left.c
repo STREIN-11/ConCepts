@@ -8,7 +8,6 @@ left of 1. Smaller number than 6 and 2 is 1.*/
 
 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
