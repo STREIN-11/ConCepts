@@ -3,6 +3,8 @@ You are given a string str of length n. You want to choose a non-zero integer k 
 Take the prefix of the string of length k and append the reverse of it to itself.
 Your task is to find the lexicographically smallest string you can get.
 
+
+
 Input:
 str = "bvdfndkn"
 Output:
