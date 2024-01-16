@@ -8,6 +8,9 @@ Output:
 Explanation: Here k=5 because (101)2 = (5)10.
 Hence 5 mod 2 = 1.
 
+
+
+
 Input:
 s = "1000"
 m = 4
