@@ -10,7 +10,6 @@ Hence 5 mod 2 = 1.
 
 
 
-
 Input:
 s = "1000"
 m = 4
