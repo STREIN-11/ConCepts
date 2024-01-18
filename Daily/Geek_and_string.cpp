@@ -1,5 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
+
+
+
+
 class Solution{
 public:
     vector<int> prefixCount(int N, int Q, string li[], string query[]){
