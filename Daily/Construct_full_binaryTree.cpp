@@ -10,7 +10,6 @@ preOrderMirror[] = {0,2,1}
 
 
 
-
 Output :
                 0
               /   \
