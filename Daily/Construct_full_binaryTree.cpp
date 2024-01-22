@@ -8,6 +8,9 @@ Input :
 preOrder[] = {0,1,2}
 preOrderMirror[] = {0,2,1} 
 
+
+
+
 Output :
                 0
               /   \
