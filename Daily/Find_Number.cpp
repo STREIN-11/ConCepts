@@ -3,6 +3,7 @@ Given an integer N, You need to find the Nth smallest number which only contains
  digits are allowed on that number (12 will not consider). For example, the starting numbers which only contain odd digits
  are 1,3,5,7,9,11,13,15,17,19,31,33,35 and so on.
 
+
 Input:
 N=3
 Output:
