@@ -5,7 +5,6 @@ occur exactly once and are distinct. Find the other two numbers. Return in incre
 
 
 
-
 Example 1:
 Input: 
 N = 2
