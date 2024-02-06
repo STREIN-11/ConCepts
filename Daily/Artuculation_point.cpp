@@ -10,9 +10,6 @@ https://practice.geeksforgeeks.org/problems/articulation-point-1/1
 #include<bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
-//User function Template for C++
-
 class Solution {
   public:
     void dfs(int node, int parent, int& timer, vector<int> adj[], vector<int>& vis, vector<int>& tin, vector<int>& low, vector<int>& isarti){
