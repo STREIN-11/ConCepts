@@ -10,7 +10,6 @@ Output:
 Explanation:  DLL would be 
 40<=>20<=>60<=>10<=>30.*/
 
-
 #include <bits/stdc++.h>
 using namespace std;
 struct Node
