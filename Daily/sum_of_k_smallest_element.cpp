@@ -19,7 +19,6 @@ Sum of 3 smallest elements are:
 using namespace std;
 
 
-
 struct Node
 {
 	int data;
