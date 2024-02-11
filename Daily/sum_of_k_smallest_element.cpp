@@ -18,6 +18,10 @@ Sum of 3 smallest elements are:
 #include <bits/stdc++.h>
 using namespace std;
 
+
+
+
+
 struct Node
 {
 	int data;
