@@ -7,7 +7,6 @@ and print them along with their count.
 
 
 
-
 Input:
 N = 3
 A[] =
