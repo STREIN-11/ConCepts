@@ -9,7 +9,6 @@ Explaination: 2 squares of 2x2 dimension.
 Example 2:
 
 
-
 Input: L = 6, B = 3
 Output: N = 2, K = 3
 Explaintion: 2 squares of 3x3 dimension. */
