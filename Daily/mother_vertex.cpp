@@ -10,7 +10,6 @@ https://practice.geeksforgeeks.org/problems/mother-vertex/1
 using namespace std;
 
 // } Driver Code Ends
-
 class Solution 
 {
     public:
