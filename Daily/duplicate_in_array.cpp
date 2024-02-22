@@ -6,7 +6,6 @@ Note: The extra space is only for the array to be returned. Try and perform all 
 within the provided array. 
 
 
-
 Example 1:
 Input:
 N = 4
