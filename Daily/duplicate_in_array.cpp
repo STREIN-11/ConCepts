@@ -5,7 +5,6 @@ If no such element is found, return list containing [-1].
 Note: The extra space is only for the array to be returned. Try and perform all operations 
 within the provided array. 
 
-
 Example 1:
 Input:
 N = 4
