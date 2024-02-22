@@ -8,7 +8,6 @@ within the provided array.
 
 
 
-
 Example 1:
 Input:
 N = 4
