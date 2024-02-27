@@ -5,6 +5,8 @@ The two identified subsequences A and B can use the same ith character from stri
 character has different indices in A and B. For example, A = "xax" and B = "xax" then the index of first "x" must be 
 different in the original string for A and B.
 
+
+
 Input:
 str = "axxzxy"
 Output: 2
