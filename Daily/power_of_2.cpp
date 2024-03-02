@@ -6,7 +6,6 @@ Example 1:
 
 
 
-
 Input: 
 N = 8
 Output: 
