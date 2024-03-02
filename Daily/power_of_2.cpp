@@ -4,7 +4,6 @@ Given a non-negative integer N. The task is to check if N is a power of 2. More 
 Example 1:
 
 
-
 Input: 
 N = 8
 Output: 
