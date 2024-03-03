@@ -10,7 +10,7 @@
 // picks the pot containing 8. Player X picks the pot
 // containing 15. Player Y picks 3.
 // Total coins collected by X = 7 + 15 = 22.
-s
+
 #include <bits/stdc++.h>
 using namespace std;
 
