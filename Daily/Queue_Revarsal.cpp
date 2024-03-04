@@ -10,7 +10,6 @@ After reversing the given elements of the queue , the resultant queue will be 6 
 
 
 
-
 Input:
 4
 4 3 2 1 
