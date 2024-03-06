@@ -10,7 +10,6 @@ Explanation:
 10 = 12 + 32, Hence total 1 possibility. 
 
 
-
 Input: 
 n = 100, x = 2
 Output: 
