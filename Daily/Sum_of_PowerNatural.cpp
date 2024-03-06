@@ -11,7 +11,6 @@ Explanation:
 
 
 
-
 Input: 
 n = 100, x = 2
 Output: 
