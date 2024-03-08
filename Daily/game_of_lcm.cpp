@@ -11,7 +11,6 @@ The four numbers can be [4,4,3,2] or
 the maximum LCM of four numbers that can
 be obtained from numbers less than or equal 
 to 4.
-
 Input:
 N = 5
 Output: 60
