@@ -5,7 +5,7 @@ A Mother Vertex is a vertex through which we can reach all the other vertices of
 https://practice.geeksforgeeks.org/problems/mother-vertex/1
 */
 
-//{ Driver Code Starts
+
 #include<bits/stdc++.h>
 using namespace std;
 
