@@ -5,7 +5,7 @@ Output:
 Explanation:
 palindromic subsequence are : "a" ,"b", "c" ,"d"*/
 //{ Driver Code Starts
-// Counts Palindromic Subsequence in a given String
+
 #include<bits/stdc++.h>
 using namespace std;
 
