@@ -4,7 +4,6 @@ Output:
 4
 Explanation:
 palindromic subsequence are : "a" ,"b", "c" ,"d"*/
-
 #include<bits/stdc++.h>
 using namespace std;
 
