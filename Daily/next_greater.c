@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 void print(int arr[], int n)
 {
 	int next, i, j;
