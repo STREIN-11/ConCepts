@@ -12,7 +12,6 @@ Explanation:
 triplet product in the array.
 
 
-
 Input:
 n = 7
 arr[] = {-3, -5, 1, 0, 8, 3, -2} 
