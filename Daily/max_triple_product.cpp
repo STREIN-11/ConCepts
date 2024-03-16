@@ -11,6 +11,8 @@ Explanation:
 5*3*2 gives 30. This is the maximum possible
 triplet product in the array.
 
+
+
 Input:
 n = 7
 arr[] = {-3, -5, 1, 0, 8, 3, -2} 
