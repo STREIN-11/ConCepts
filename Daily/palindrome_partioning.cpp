@@ -15,6 +15,9 @@ Explaination: The substrings after 1
 partitioning are "aa" and "abba".*/
 
 
+
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
