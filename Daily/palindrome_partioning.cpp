@@ -16,7 +16,6 @@ partitioning are "aa" and "abba".*/
 
 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
