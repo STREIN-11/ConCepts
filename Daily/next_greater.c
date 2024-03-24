@@ -16,7 +16,6 @@ void print(int arr[], int n)
 		printf("%d -- %d\n", arr[i], next);
 	}
 }
-
 int main()
 {
     int size;
