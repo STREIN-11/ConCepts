@@ -13,7 +13,6 @@
     
 // }
 
-
 // int main(int argc, char const *argv[]){
 //     int size,num;
 //     printf("Enter Size of Array : ");
