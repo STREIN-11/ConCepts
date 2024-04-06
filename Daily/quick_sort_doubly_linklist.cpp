@@ -3,7 +3,7 @@
 #include <stdlib.h>
 using namespace std;
  
-/* a Node of the doubly linked list */
+
 struct Node
 {
     int data;
