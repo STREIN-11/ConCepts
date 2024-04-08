@@ -3,7 +3,6 @@ Given an array arr[] of n positive integers. Push all the zeros of the given arr
 of the array while maintaining the order of non-zero elements. Do the mentioned change in the array in-place.
 
 
-
 Example 1:
 Input:
 N = 5
