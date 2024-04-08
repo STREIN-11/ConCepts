@@ -12,6 +12,8 @@ Explanation:
 2's binary form is 10, no 3 consecutive set bits are here. 
 So, 2 itself would be answer.
 
+
+
 Input:
 n = 7
 Output: 
