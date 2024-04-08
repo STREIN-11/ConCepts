@@ -4,7 +4,6 @@ of the array while maintaining the order of non-zero elements. Do the mentioned 
 
 
 
-
 Example 1:
 Input:
 N = 5
