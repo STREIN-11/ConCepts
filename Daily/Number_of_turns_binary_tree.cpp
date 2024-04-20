@@ -16,7 +16,6 @@ Turns will be at 2, 1, 3, 6.
 //Initial template for C++
 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
