@@ -16,7 +16,7 @@ The given BST has been transformed into a
 Max Heap and it's postorder traversal is
 1 2 3 4 5 6 7.*/
 //{ Driver Code Starts
-//Initial Template for C++
+
 
 #include <bits/stdc++.h>
 using namespace std;
