@@ -5,7 +5,6 @@ push2 : pushes element into second stack.
 pop1 : pops element from first stack and returns the popped element. If first stack is empty, it should return -1.
 pop2 : pops element from second stack and returns the popped element. If second stack is empty, it should return -1.
 
-
 Input:
 push1(2)
 push1(3)
