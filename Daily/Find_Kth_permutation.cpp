@@ -1,6 +1,8 @@
 /*
 Given two integers N (1<=N<=9) and K. Find the kth permutation sequence of first N natural numbers. Return the answer in string format.
 
+
+
 Input: N = 4, K = 3
 Output: 1324
 Explanation: 
