@@ -11,7 +11,6 @@ Explanation:
 The substrings are: "ab", "ba" and "aba".
 
 Example 2:
-
 Input: 
 S = "abaaca", K = 1
 Output:
