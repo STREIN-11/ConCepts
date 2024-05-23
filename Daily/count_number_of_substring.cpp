@@ -3,7 +3,6 @@ Given a string of lowercase alphabets, count all possible substrings (not necess
 that have exactly k distinct characters. 
 
 Example 1:
-
 Input:
 S = "aba", K = 2
 Output:
