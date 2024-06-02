@@ -4,7 +4,6 @@ Nx2 matrix lines[ ][ ]. Your task is to find the maximum number of intersections
 given N line segments.
 
 
-
 Example 1:
 Input:
 N = 4
