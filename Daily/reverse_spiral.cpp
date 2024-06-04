@@ -3,8 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
-// User function Template for C++
+
 class Solution {
   public:
     vector<int> reverseSpiral(int R, int C, vector<vector<int>>&a)  {
