@@ -3,7 +3,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 class Solution {
   public:
     vector<int> reverseSpiral(int R, int C, vector<vector<int>>&a)  {
