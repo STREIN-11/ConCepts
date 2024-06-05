@@ -9,7 +9,6 @@ Explanation: The reverse of 2 is 2 and after raising power of 2 by 2 we get 4 wh
 
 
 
-
 Input:
 N = 12
 Output: 864354781
