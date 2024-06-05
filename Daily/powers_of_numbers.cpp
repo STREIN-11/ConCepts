@@ -11,7 +11,6 @@ N = 12
 Output: 864354781
 Explanation: The reverse of 12 is 21and 1221 when divided by 1000000007 gives remainder as 864354781.*/
 
-//{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
 # define mod 1000000007
