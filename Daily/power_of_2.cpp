@@ -9,7 +9,6 @@ Explanation:
 8 is equal to 2 raised to 3 (23 = 8).
 
 Example 2:
-
 Input: 
 N = 98
 Output: 
