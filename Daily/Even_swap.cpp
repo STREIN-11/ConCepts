@@ -6,7 +6,6 @@ Array b should be generated after applying the above operation any number of tim
 operation any number of times.
 
 
-
 Input:
 N=3
 a[]={1,3,5}
