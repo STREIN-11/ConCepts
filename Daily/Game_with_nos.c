@@ -10,6 +10,7 @@ At index 4, No element is left So, it will remain as
 it is.
 New Array will be {1, 10, 3, 1, 3}.*/
 //{ Driver Code Starts
+
 #include<bits/stdc++.h>
 using namespace std;
 
