@@ -8,6 +8,8 @@ Input:
          /    \
         10    14   , K=3
 
+
+
 Output: 22
 Explanation:
 Sum of 3 smallest elements are: 
