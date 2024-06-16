@@ -13,6 +13,11 @@ Explanation: The sum of elements
 from 2nd position to 4th position 
 is 12.
 
+
+
+
+
+
 Example 2:
 Input:
 N = 10, S = 15
