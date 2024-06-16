@@ -16,7 +16,6 @@ is 12.
 
 
 
-
 Example 2:
 Input:
 N = 10, S = 15
