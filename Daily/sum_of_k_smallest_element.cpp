@@ -13,7 +13,7 @@ Explanation:
 Sum of 3 smallest elements are: 
 4 + 8 + 10 = 22*/
 //{ Driver Code Starts
-//Initial Template for C++
+
 
 #include <bits/stdc++.h>
 using namespace std;
