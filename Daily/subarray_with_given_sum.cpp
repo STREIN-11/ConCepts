@@ -5,7 +5,6 @@ In case of multiple subarrays, return the subarray indexes which come first on m
 Note:- You have to return an ArrayList consisting of two elements left and right. In case no such subarray exists return an array consisting of element -1.
 
 
-
 Example 1:
 Input:
 N = 5, S = 12
