@@ -6,7 +6,6 @@ Note:- You have to return an ArrayList consisting of two elements left and right
 
 
 
-
 Example 1:
 Input:
 N = 5, S = 12
