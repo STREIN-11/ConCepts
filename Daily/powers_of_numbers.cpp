@@ -3,7 +3,6 @@ Given a number and its reverse. Find that number raised to the power of its own 
 Note: As answers can be very large, print the result modulo 109 + 7.
 
 
-
 Input:
 N = 2
 Output: 4
