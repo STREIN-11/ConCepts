@@ -14,7 +14,6 @@ So, 2 itself would be answer.
 
 
 
-
 Input:
 n = 7
 Output: 
