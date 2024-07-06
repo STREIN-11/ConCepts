@@ -14,8 +14,7 @@ https://practice.geeksforgeeks.org/problems/maximum-number-of-22-squares/1
 using namespace std;
 
 
-// } Driver Code Ends
-//User function Template for C++
+
 
 class Solution
 {
