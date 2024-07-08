@@ -9,7 +9,6 @@ class Solution {
         int count=0;
 
         vector<int> v;
-
         while(count<R*C){
 
             for(int i=cs;i<ce;i++){
