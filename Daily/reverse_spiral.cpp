@@ -7,7 +7,6 @@ class Solution {
     vector<int> reverseSpiral(int R, int C, vector<vector<int>>&a)  {
         int rs=0,cs=0,re=R,ce=C;
         int count=0;
-
         vector<int> v;
         while(count<R*C){
 
