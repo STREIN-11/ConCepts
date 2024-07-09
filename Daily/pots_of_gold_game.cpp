@@ -12,7 +12,6 @@
 // Total coins collected by X = 7 + 15 = 22.
 
 
-
 #include <bits/stdc++.h>
 using namespace std;
 class Solution {
