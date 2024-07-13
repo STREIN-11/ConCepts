@@ -2,6 +2,8 @@
 Given two numbers n and x, find out the total number of ways n can be expressed as the sum of the Xth power of unique natural numbers. 
 As the total number of ways can be very large, so return the number of ways modulo 109 + 7. 
 
+
+
 Input: 
 n = 10, x = 2
 Output: 
