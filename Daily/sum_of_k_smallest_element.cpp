@@ -13,6 +13,8 @@ Explanation:
 Sum of 3 smallest elements are: 
 4 + 8 + 10 = 22*/
 
+
+
 #include <bits/stdc++.h>
 using namespace std;
 
