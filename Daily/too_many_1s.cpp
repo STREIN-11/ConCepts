@@ -6,7 +6,6 @@ consecutive bits of the integer query are set-bits.
 
 
 
-
 Input:
 n = 2
 Output: 
