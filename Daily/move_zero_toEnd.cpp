@@ -13,7 +13,6 @@ elements are moved to the right.
 
 
 
-
 Example 2:
 Input:
 N = 4
