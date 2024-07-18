@@ -12,7 +12,6 @@ preserve their order while the 0
 elements are moved to the right.
 
 
-
 Example 2:
 Input:
 N = 4
