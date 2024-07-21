@@ -4,7 +4,6 @@ printed in decreasing order.
 
 
 
-
 Input:
 N = 5, K = 2
 Arr[] = {12, 5, 787, 1, 23}
