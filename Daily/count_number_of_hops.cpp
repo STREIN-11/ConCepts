@@ -8,7 +8,6 @@ N = 1
 Output: 1
 
 
-
 Example 2:
 Input:
 N = 4
