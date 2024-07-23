@@ -14,7 +14,6 @@ Therefore, this array does not satisfy the condition.
 
 
 
-
 Input:
 N = 10
 arr = [2, 2, 5, 10, 1, 2, 10, 5, 10, 2]
