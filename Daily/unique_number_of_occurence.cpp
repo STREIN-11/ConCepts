@@ -12,7 +12,6 @@ Explanation:
 The array contains 2 (1’s), 1 (2’s) and 2 (5’s), since the number of frequency of 1 and 5 are the same i.e. 2 times. 
 Therefore, this array does not satisfy the condition.
 
-
 Input:
 N = 10
 arr = [2, 2, 5, 10, 1, 2, 10, 5, 10, 2]
