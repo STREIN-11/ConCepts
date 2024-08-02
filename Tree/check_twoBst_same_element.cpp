@@ -4,7 +4,6 @@ struct Node{
     int data;
     struct Node* left,*right;
 };
-
 struct Node* newnode(int add){
     struct Node* temp = (struct Node*)malloc(sizeof(struct Node));
     temp->data = add;
@@ -65,7 +64,10 @@ int main(){
         cin>>data2;
         roo = insert(roo,data2);
     }
-    if(check(root,roo)){
+    if(n!=m){
+        cout<<"NO";
+    }
+    else if(check(root,roo)){
         cout<<"YES";
     }
     else
