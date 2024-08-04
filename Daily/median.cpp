@@ -14,7 +14,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-
 int Solution(int arr[], int n)
 {
 
