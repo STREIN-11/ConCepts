@@ -9,7 +9,6 @@ struct node
 
 
 
-
 struct node* newnode(int n){
     struct node* temp = new struct node;
     temp->data = n;
