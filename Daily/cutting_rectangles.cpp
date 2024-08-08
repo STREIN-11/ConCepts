@@ -8,7 +8,6 @@ Explaination: 2 squares of 2x2 dimension.
 
 
 
-
 Example 2:
 Input: L = 6, B = 3
 Output: N = 2, K = 3
