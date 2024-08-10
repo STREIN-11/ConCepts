@@ -7,7 +7,6 @@ Find the number of land cells in grid for which we cannot walk off the boundary 
 
 
 
-
 Example 1:
 Input:
 grid[][] = {{0, 0, 0, 0},
