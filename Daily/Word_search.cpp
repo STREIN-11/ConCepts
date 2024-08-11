@@ -13,7 +13,6 @@ The letters which are used to make the
 "geeks" are colored.
 
 
-
 Input: board = {{a,b,c,e},{s,f,c,s},{a,d,e,e}},
 word = "sabfs"
 Output: 0
