@@ -3,7 +3,6 @@ using namespace std;
 
 
 
-
 void bfs(vector<vector<int>> & adjlist,int node, vector<bool> & visited){
         queue<int> q;
         visited[node] = true;
