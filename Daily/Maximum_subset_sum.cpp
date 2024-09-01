@@ -11,7 +11,6 @@ We can choose 0th,2nd & 3rd index(0 based
 Index),so that it can satisfy the 
 condition & can make maximum sum 8. 
 
-
 Input: 
 N = 3
 A[] =  {0, 2, 0};
