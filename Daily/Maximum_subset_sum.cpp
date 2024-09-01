@@ -13,7 +13,6 @@ condition & can make maximum sum 8.
 
 
 
-
 Input: 
 N = 3
 A[] =  {0, 2, 0};
