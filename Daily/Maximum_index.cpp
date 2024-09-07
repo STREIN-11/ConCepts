@@ -2,7 +2,6 @@
 Given an array arr[] of n positive integers. The task is to find the maximum of j - i subjected to the constraint of arr[i] <= arr[j].
 
 
-
 Input:
 n = 9
 arr[] = {34, 8, 10, 3, 2, 80, 30, 33, 1}
