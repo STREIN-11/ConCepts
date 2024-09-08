@@ -4,7 +4,6 @@ complete the method findK which takes four arguments the first argument is the m
 the matrix A and then the forth argument is an integer k. The function will return the kth element obtained while traversing the matrix spirally.
 
 
-
 Input:
 n = 4, m = 4, k = 10
 A[][] = {{1  2  3  4},
