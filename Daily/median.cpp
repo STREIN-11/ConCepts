@@ -11,7 +11,6 @@
     Take the average between the two: (10 + 12) / 2 = 11.
 */
 
-
 #include <bits/stdc++.h>
 using namespace std;
 
