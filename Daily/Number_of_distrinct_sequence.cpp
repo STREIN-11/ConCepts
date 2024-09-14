@@ -11,7 +11,6 @@ Explanation:
 The seven distinct subsequences are "", "g", "f", "gf", "fg", "gg" and "gfg" .
 
 
-
 Example 2:
 Input: 
 s = "ggg"
