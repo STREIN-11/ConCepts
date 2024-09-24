@@ -7,7 +7,6 @@ Let S be the sum of lengths of all sticks that are used in constructing squares 
 possible value of S.
 Note: The element in array A[] is always unique.
 
-
 Input:
 N = 4
 A[] = {3,4,6,5}
