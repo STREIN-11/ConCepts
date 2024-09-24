@@ -11,7 +11,6 @@ Note: The element in array A[] is always unique.
 
 
 
-
 Input:
 N = 4
 A[] = {3,4,6,5}
