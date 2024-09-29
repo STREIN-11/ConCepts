@@ -4,7 +4,6 @@ a, b, and c such that no three consecutive characters are the same. If the resul
 return the length (a+b+c) otherwise -1.
 
 
-
 Example 1:
 Input:
 a = 3, b = 3, c = 3
