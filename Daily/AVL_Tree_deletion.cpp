@@ -3,6 +3,8 @@ Given an AVL tree and N values to be deleted from the tree. Write a function to 
 All the N values which needs to be deleted are passed one by one as input data by driver code itself, you are asked to 
 return the root of modified tree after deleting the value.
 
+
+
 Example 1:
 Tree = 
         4
