@@ -19,7 +19,6 @@ Turns will be at 2, 1, 3, 6.
 using namespace std;
 
 
-
 struct Node
 {
     int data;
