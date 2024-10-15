@@ -3,7 +3,6 @@ Given n buckets and infinite number of balls. The maximum capacity of each bucke
 Find the number of ways to fill the buckets with balls such that each bucket has atleast 1 ball and all the buckets have distinct number
  of balls in them.Note: Since the answer may be very large, calculate the answer modulo 10^9+7.
 
-
 Input: 
 n = 1
 capacity = [6]
