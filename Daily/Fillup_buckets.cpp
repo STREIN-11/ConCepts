@@ -4,7 +4,6 @@ Find the number of ways to fill the buckets with balls such that each bucket has
  of balls in them.Note: Since the answer may be very large, calculate the answer modulo 10^9+7.
 
 
-
  
 Input: 
 n = 1
