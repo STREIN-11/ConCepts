@@ -2,7 +2,6 @@
 Given a string you need to print the size of the longest possible substring that has exactly K unique characters. 
 If there is no possible substring then print -1.
 
-
 Example 1:
 Input:
 S = "aabacbebebe", K = 3
