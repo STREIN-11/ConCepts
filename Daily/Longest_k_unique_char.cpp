@@ -4,7 +4,6 @@ If there is no possible substring then print -1.
 
 
 
-
 Example 1:
 Input:
 S = "aabacbebebe", K = 3
