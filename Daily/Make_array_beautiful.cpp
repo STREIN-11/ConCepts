@@ -7,6 +7,8 @@ Return the beautiful array after performing the above operation.
 Note: An empty array is also a beautiful array. There can be many adjacent integers with different signs. So remove adjacent 
 integers with different signs from left to right.
 
+
+
 Example 1:
 Input: 4 2 -2 1
 Output: 4 1
