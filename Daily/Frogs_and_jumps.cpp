@@ -7,7 +7,6 @@ Given the strength of each frog and the number of leaves, your task is to find t
 of the frogs when all frogs have reached the other end of the pond. 
 
 
-
 Input:
 N = 3
 leaves = 4
