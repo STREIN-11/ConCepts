@@ -11,7 +11,6 @@ So the count of the set bit is 2.
 
 
 
-
 Input:
 8
 Output:
