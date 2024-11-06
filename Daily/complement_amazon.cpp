@@ -15,7 +15,6 @@ so don't need to complement any.
 
 
 
-
 Input:
 N = 2
 str = "01"
