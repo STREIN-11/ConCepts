@@ -5,7 +5,6 @@ Also, among all the good integers, all those integers whose sum of digits contai
 Find the number of best integers of length N. Since the number of best integers can be huge, print it modulo 109+7.
 
 
-
 Input:
 N = 2, A = 1, B = 2, C = 3, D = 5
 Output: 
