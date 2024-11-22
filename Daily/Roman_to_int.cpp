@@ -14,7 +14,6 @@ M 1000
 
 
 
-
 Example 1:
 Input:
 s = V
