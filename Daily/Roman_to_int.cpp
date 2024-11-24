@@ -12,7 +12,6 @@ Example 1:
 Input:
 s = V
 Output: 5
-
 Example 2:
 Input:
 s = III 
