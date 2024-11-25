@@ -2,7 +2,6 @@
 using namespace std;
 
 
-
 class Solution{
     public:
     long long int minSum(int arr[], int n)
