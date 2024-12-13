@@ -5,7 +5,6 @@ Note: You need to swap the nodes, not only the data. If only data is swapped the
 
 
 
-
 Example 1:
 Input:
 LinkedList: 1->2->2->4->5->6->7->8
