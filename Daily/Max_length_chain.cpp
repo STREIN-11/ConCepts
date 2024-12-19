@@ -5,7 +5,6 @@ struct val{
 	int second;
 };
 
-
 class Solution{
 public:
     static bool comp(struct val a, struct val b)
