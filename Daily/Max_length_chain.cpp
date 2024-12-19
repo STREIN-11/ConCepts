@@ -4,12 +4,7 @@ struct val{
 	int first;
 	int second;
 };
-/*
-The structure to use is as follows
-struct val{
-	int first;
-	int second;
-};*/
+
 class Solution{
 public:
     /*You are required to complete this method*/
