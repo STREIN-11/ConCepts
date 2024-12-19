@@ -6,7 +6,6 @@ struct val{
 };
 
 
-
 class Solution{
 public:
     static bool comp(struct val a, struct val b)
