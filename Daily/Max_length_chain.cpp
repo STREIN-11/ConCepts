@@ -8,7 +8,6 @@ struct val{
 
 
 
-
 class Solution{
 public:
     /*You are required to complete this method*/
