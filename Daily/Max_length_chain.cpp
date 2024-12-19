@@ -9,7 +9,6 @@ struct val{
 
 class Solution{
 public:
-    /*You are required to complete this method*/
     static bool comp(struct val a, struct val b)
     {
         if(a.first != b.first)
