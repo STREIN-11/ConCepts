@@ -3,7 +3,6 @@ Given a sorted array Arr of size N and a number X, you need to find the number o
 
 
 
-
 Example 1:
 Input:
 N = 7, X = 2
