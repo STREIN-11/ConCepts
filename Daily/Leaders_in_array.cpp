@@ -16,7 +16,6 @@ is always a leader so it is also
 included.
 
 Example 2:
-
 Input:
 n = 5
 A[] = {1,2,3,4,0}
