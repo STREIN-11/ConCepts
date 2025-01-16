@@ -4,7 +4,6 @@ An element of array is leader if it is greater than or equal to all the elements
 The rightmost element is always a leader. 
 
 
-
 Example 1:
 Input:
 n = 6
