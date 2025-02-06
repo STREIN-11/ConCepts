@@ -11,7 +11,6 @@ to find 2nd node from end. 2nd node
 from end is 8.  
 
 
-
 Input:
 N = 5
 LinkedList: 10->5->100->5
