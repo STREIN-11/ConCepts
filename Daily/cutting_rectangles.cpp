@@ -18,9 +18,6 @@ Explaintion: 2 squares of 3x3 dimension. */
 #include <bits/stdc++.h>
 using namespace std;
 
-// } Driver Code Ends
-// User function Template for C++
-
 class Solution{
 public:
     vector<long long int> minimumSquares(long long int L, long long int B)
