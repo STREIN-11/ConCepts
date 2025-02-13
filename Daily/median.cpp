@@ -15,8 +15,6 @@ using namespace std;
 
 int Solution(int arr[], int n)
 {
-
-    // If length of array is even
     if (n % 2 == 0) {
         int z = n / 2;
         int e = arr[z];
