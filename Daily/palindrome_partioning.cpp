@@ -8,7 +8,6 @@ Output: 3
 Explaination: After 3 partitioning substrings 
 are "a", "babbbab", "b", "ababa".
 
-
 Example 2:
 Input: str = "aaabba"
 Output: 1
