@@ -11,7 +11,6 @@ are "a", "babbbab", "b", "ababa".
 
 
 
-
 Example 2:
 Input: str = "aaabba"
 Output: 1
