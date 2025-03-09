@@ -18,7 +18,6 @@ Output:
 4
 Explanation: 
 The four distinct subsequences are "", "g", "gg", "ggg". */
-
 #include <bits/stdc++.h>
 using namespace std;
 class Solution{
