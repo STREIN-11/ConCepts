@@ -6,6 +6,8 @@ Given an integer array hand of size N where hand [ i ] is the value
 written on the ith card and an integer groupSize, return true if she 
 can rearrange the cards, or false otherwise.
 
+
+
 Input:
 N = 9
 groupSize = 3
