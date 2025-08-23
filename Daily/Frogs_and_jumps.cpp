@@ -64,6 +64,7 @@ int main() {
         int frogs[N];
         for (int i = 0; i < N; i++) {
             cin >> frogs[i];
+          
         }
 
         Solution ob;
@@ -71,3 +72,4 @@ int main() {
     }
 }
 // } Driver Code Ends
+
